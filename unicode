@@ -1,0 +1,2364 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="https://www.unicodepedia.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<link rel="stylesheet" href="scripts/css/style.css?v=1714033799">
+
+<link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+<link rel="manifest" href="images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta property="og:image" content="https://www.unicodepedia.com/images/share.jpg">
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6494300f6fc24400124f2b5d&product=sop' async='async'></script>    <title>Unicodepedia - Unicode characters database - Page 1: from U+0 to U+1F3</title>
+    <meta name="description" content="List of Unicode characters from U+0 to U+1F3. Get info and conversion to HTML Entity, Decimal, Hex, Microsoft Windows, UTF-8, UTF-16, UTF-32, Source Code">
+</head>
+<body>
+    <div class="header">
+    <a class="headerLogo" href="./"><img src="images/logo.svg" width="32" height="32" alt="unicodepedia logo" /><span>unicode<i>pedia</i></span></a>
+    <div class="headerNav">
+        <form class="searchBlock" method="post" action="scripts/php/search.php">
+            <input name="q" id="searchBlockInput" class="searchBlockInput" type="search" placeholder="🔍 Search..." />
+        </form>
+    </div>
+</div>
+    <div class="section">
+        <h1>Unicode characters from U+0&nbsp;to&nbsp;U+1F3</h1>
+        <div class="subtitle">
+        Unicode is a <b>standardized encoding system</b> for representing text in computers and other devices. It assigns a unique number, called a <b>code point</b>, to each character in a character set. This allows computers to store and process text data in a consistent and standardized way, regardless of the language or script being used. Unicode supports a <b>wide range of scripts and characters</b>, including alphabetic characters, punctuation, symbols, and emoji, making it a versatile and comprehensive encoding system for text. It is widely used in software and online platforms to represent and process text data, and is an essential component of the modern computing experience.
+        </div>
+        <div class="toolbar">
+    <div class="toolbarMessage">Enable "Right-Click to copy" to easily copy characters from this page, just right-click on the char to copy it.</div>
+    <div id="rightClickToCopy" class="toolbarItem">Right-Click to copy: <div id="rightClickToCopyStatus"
+            class="toolbarItemStatus"></div>
+    </div>
+    <div id="copyAll" class="toolbarItem">Copy all chars</div>
+    </div>
+    <br />
+    <br />
+    <div class="toolbarMessage">Do you need a feature? Feel free to <a href="contact/">contact me</a>.</div>
+</div>        <div class="charsList">
+                <a href="unicode/basic-latin/0/control-0000/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#0;</div>
+        <div class="charItemUPoint">U+0</div>
+    </a>
+    <a href="unicode/basic-latin/1/control-0001/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#1;</div>
+        <div class="charItemUPoint">U+1</div>
+    </a>
+    <a href="unicode/basic-latin/2/control-0002/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#2;</div>
+        <div class="charItemUPoint">U+2</div>
+    </a>
+    <a href="unicode/basic-latin/3/control-0003/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#3;</div>
+        <div class="charItemUPoint">U+3</div>
+    </a>
+    <a href="unicode/basic-latin/4/control-0004/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#4;</div>
+        <div class="charItemUPoint">U+4</div>
+    </a>
+    <a href="unicode/basic-latin/5/control-0005/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#5;</div>
+        <div class="charItemUPoint">U+5</div>
+    </a>
+    <a href="unicode/basic-latin/6/control-0006/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#6;</div>
+        <div class="charItemUPoint">U+6</div>
+    </a>
+    <a href="unicode/basic-latin/7/control-0007/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#7;</div>
+        <div class="charItemUPoint">U+7</div>
+    </a>
+    <a href="unicode/basic-latin/8/control-0008/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#8;</div>
+        <div class="charItemUPoint">U+8</div>
+    </a>
+    <a href="unicode/basic-latin/9/control-0009/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#9;</div>
+        <div class="charItemUPoint">U+9</div>
+    </a>
+    <a href="unicode/basic-latin/a/control-000a/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#10;</div>
+        <div class="charItemUPoint">U+A</div>
+    </a>
+    <a href="unicode/basic-latin/b/control-000b/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#11;</div>
+        <div class="charItemUPoint">U+B</div>
+    </a>
+    <a href="unicode/basic-latin/c/control-000c/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#12;</div>
+        <div class="charItemUPoint">U+C</div>
+    </a>
+    <a href="unicode/basic-latin/d/control-000d/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#13;</div>
+        <div class="charItemUPoint">U+D</div>
+    </a>
+    <a href="unicode/basic-latin/e/control-000e/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#14;</div>
+        <div class="charItemUPoint">U+E</div>
+    </a>
+    <a href="unicode/basic-latin/f/control-000f/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#15;</div>
+        <div class="charItemUPoint">U+F</div>
+    </a>
+    <a href="unicode/basic-latin/10/control-0010/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#16;</div>
+        <div class="charItemUPoint">U+10</div>
+    </a>
+    <a href="unicode/basic-latin/11/control-0011/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#17;</div>
+        <div class="charItemUPoint">U+11</div>
+    </a>
+    <a href="unicode/basic-latin/12/control-0012/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#18;</div>
+        <div class="charItemUPoint">U+12</div>
+    </a>
+    <a href="unicode/basic-latin/13/control-0013/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#19;</div>
+        <div class="charItemUPoint">U+13</div>
+    </a>
+    <a href="unicode/basic-latin/14/control-0014/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#20;</div>
+        <div class="charItemUPoint">U+14</div>
+    </a>
+    <a href="unicode/basic-latin/15/control-0015/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#21;</div>
+        <div class="charItemUPoint">U+15</div>
+    </a>
+    <a href="unicode/basic-latin/16/control-0016/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#22;</div>
+        <div class="charItemUPoint">U+16</div>
+    </a>
+    <a href="unicode/basic-latin/17/control-0017/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#23;</div>
+        <div class="charItemUPoint">U+17</div>
+    </a>
+    <a href="unicode/basic-latin/18/control-0018/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#24;</div>
+        <div class="charItemUPoint">U+18</div>
+    </a>
+    <a href="unicode/basic-latin/19/control-0019/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#25;</div>
+        <div class="charItemUPoint">U+19</div>
+    </a>
+    <a href="unicode/basic-latin/1a/control-001a/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#26;</div>
+        <div class="charItemUPoint">U+1A</div>
+    </a>
+    <a href="unicode/basic-latin/1b/control-001b/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#27;</div>
+        <div class="charItemUPoint">U+1B</div>
+    </a>
+    <a href="unicode/basic-latin/1c/control-001c/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#28;</div>
+        <div class="charItemUPoint">U+1C</div>
+    </a>
+    <a href="unicode/basic-latin/1d/control-001d/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#29;</div>
+        <div class="charItemUPoint">U+1D</div>
+    </a>
+    <a href="unicode/basic-latin/1e/control-001e/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#30;</div>
+        <div class="charItemUPoint">U+1E</div>
+    </a>
+    <a href="unicode/basic-latin/1f/control-001f/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#31;</div>
+        <div class="charItemUPoint">U+1F</div>
+    </a>
+    <a href="unicode/basic-latin/20/space/" class="basic-latin charItem" title="SPACE">
+        <div class="charItemSymbol ">&#32;</div>
+        <div class="charItemUPoint">U+20</div>
+    </a>
+    <a href="unicode/basic-latin/21/exclamation-mark/" class="basic-latin charItem" title="EXCLAMATION MARK">
+        <div class="charItemSymbol ">&#33;</div>
+        <div class="charItemUPoint">U+21</div>
+    </a>
+    <a href="unicode/basic-latin/22/quotation-mark/" class="basic-latin charItem" title="QUOTATION MARK">
+        <div class="charItemSymbol ">&#34;</div>
+        <div class="charItemUPoint">U+22</div>
+    </a>
+    <a href="unicode/basic-latin/23/number-sign/" class="basic-latin charItem" title="NUMBER SIGN">
+        <div class="charItemSymbol ">&#35;</div>
+        <div class="charItemUPoint">U+23</div>
+    </a>
+    <a href="unicode/basic-latin/24/dollar-sign/" class="basic-latin charItem" title="DOLLAR SIGN">
+        <div class="charItemSymbol ">&#36;</div>
+        <div class="charItemUPoint">U+24</div>
+    </a>
+    <a href="unicode/basic-latin/25/percent-sign/" class="basic-latin charItem" title="PERCENT SIGN">
+        <div class="charItemSymbol ">&#37;</div>
+        <div class="charItemUPoint">U+25</div>
+    </a>
+    <a href="unicode/basic-latin/26/ampersand/" class="basic-latin charItem" title="AMPERSAND">
+        <div class="charItemSymbol ">&#38;</div>
+        <div class="charItemUPoint">U+26</div>
+    </a>
+    <a href="unicode/basic-latin/27/apostrophe/" class="basic-latin charItem" title="APOSTROPHE">
+        <div class="charItemSymbol ">&#39;</div>
+        <div class="charItemUPoint">U+27</div>
+    </a>
+    <a href="unicode/basic-latin/28/left-parenthesis/" class="basic-latin charItem" title="LEFT PARENTHESIS">
+        <div class="charItemSymbol ">&#40;</div>
+        <div class="charItemUPoint">U+28</div>
+    </a>
+    <a href="unicode/basic-latin/29/right-parenthesis/" class="basic-latin charItem" title="RIGHT PARENTHESIS">
+        <div class="charItemSymbol ">&#41;</div>
+        <div class="charItemUPoint">U+29</div>
+    </a>
+    <a href="unicode/basic-latin/2a/asterisk/" class="basic-latin charItem" title="ASTERISK">
+        <div class="charItemSymbol ">&#42;</div>
+        <div class="charItemUPoint">U+2A</div>
+    </a>
+    <a href="unicode/basic-latin/2b/plus-sign/" class="basic-latin charItem" title="PLUS SIGN">
+        <div class="charItemSymbol ">&#43;</div>
+        <div class="charItemUPoint">U+2B</div>
+    </a>
+    <a href="unicode/basic-latin/2c/comma/" class="basic-latin charItem" title="COMMA">
+        <div class="charItemSymbol ">&#44;</div>
+        <div class="charItemUPoint">U+2C</div>
+    </a>
+    <a href="unicode/basic-latin/2d/hyphen-minus/" class="basic-latin charItem" title="HYPHEN-MINUS">
+        <div class="charItemSymbol ">&#45;</div>
+        <div class="charItemUPoint">U+2D</div>
+    </a>
+    <a href="unicode/basic-latin/2e/full-stop/" class="basic-latin charItem" title="FULL STOP">
+        <div class="charItemSymbol ">&#46;</div>
+        <div class="charItemUPoint">U+2E</div>
+    </a>
+    <a href="unicode/basic-latin/2f/solidus/" class="basic-latin charItem" title="SOLIDUS">
+        <div class="charItemSymbol ">&#47;</div>
+        <div class="charItemUPoint">U+2F</div>
+    </a>
+    <a href="unicode/basic-latin/30/digit-zero/" class="basic-latin charItem" title="DIGIT ZERO">
+        <div class="charItemSymbol ">&#48;</div>
+        <div class="charItemUPoint">U+30</div>
+    </a>
+    <a href="unicode/basic-latin/31/digit-one/" class="basic-latin charItem" title="DIGIT ONE">
+        <div class="charItemSymbol ">&#49;</div>
+        <div class="charItemUPoint">U+31</div>
+    </a>
+    <a href="unicode/basic-latin/32/digit-two/" class="basic-latin charItem" title="DIGIT TWO">
+        <div class="charItemSymbol ">&#50;</div>
+        <div class="charItemUPoint">U+32</div>
+    </a>
+    <a href="unicode/basic-latin/33/digit-three/" class="basic-latin charItem" title="DIGIT THREE">
+        <div class="charItemSymbol ">&#51;</div>
+        <div class="charItemUPoint">U+33</div>
+    </a>
+    <a href="unicode/basic-latin/34/digit-four/" class="basic-latin charItem" title="DIGIT FOUR">
+        <div class="charItemSymbol ">&#52;</div>
+        <div class="charItemUPoint">U+34</div>
+    </a>
+    <a href="unicode/basic-latin/35/digit-five/" class="basic-latin charItem" title="DIGIT FIVE">
+        <div class="charItemSymbol ">&#53;</div>
+        <div class="charItemUPoint">U+35</div>
+    </a>
+    <a href="unicode/basic-latin/36/digit-six/" class="basic-latin charItem" title="DIGIT SIX">
+        <div class="charItemSymbol ">&#54;</div>
+        <div class="charItemUPoint">U+36</div>
+    </a>
+    <a href="unicode/basic-latin/37/digit-seven/" class="basic-latin charItem" title="DIGIT SEVEN">
+        <div class="charItemSymbol ">&#55;</div>
+        <div class="charItemUPoint">U+37</div>
+    </a>
+    <a href="unicode/basic-latin/38/digit-eight/" class="basic-latin charItem" title="DIGIT EIGHT">
+        <div class="charItemSymbol ">&#56;</div>
+        <div class="charItemUPoint">U+38</div>
+    </a>
+    <a href="unicode/basic-latin/39/digit-nine/" class="basic-latin charItem" title="DIGIT NINE">
+        <div class="charItemSymbol ">&#57;</div>
+        <div class="charItemUPoint">U+39</div>
+    </a>
+    <a href="unicode/basic-latin/3a/colon/" class="basic-latin charItem" title="COLON">
+        <div class="charItemSymbol ">&#58;</div>
+        <div class="charItemUPoint">U+3A</div>
+    </a>
+    <a href="unicode/basic-latin/3b/semicolon/" class="basic-latin charItem" title="SEMICOLON">
+        <div class="charItemSymbol ">&#59;</div>
+        <div class="charItemUPoint">U+3B</div>
+    </a>
+    <a href="unicode/basic-latin/3c/less-than-sign/" class="basic-latin charItem" title="LESS-THAN SIGN">
+        <div class="charItemSymbol ">&#60;</div>
+        <div class="charItemUPoint">U+3C</div>
+    </a>
+    <a href="unicode/basic-latin/3d/equals-sign/" class="basic-latin charItem" title="EQUALS SIGN">
+        <div class="charItemSymbol ">&#61;</div>
+        <div class="charItemUPoint">U+3D</div>
+    </a>
+    <a href="unicode/basic-latin/3e/greater-than-sign/" class="basic-latin charItem" title="GREATER-THAN SIGN">
+        <div class="charItemSymbol ">&#62;</div>
+        <div class="charItemUPoint">U+3E</div>
+    </a>
+    <a href="unicode/basic-latin/3f/question-mark/" class="basic-latin charItem" title="QUESTION MARK">
+        <div class="charItemSymbol ">&#63;</div>
+        <div class="charItemUPoint">U+3F</div>
+    </a>
+    <a href="unicode/basic-latin/40/commercial-at/" class="basic-latin charItem" title="COMMERCIAL AT">
+        <div class="charItemSymbol ">&#64;</div>
+        <div class="charItemUPoint">U+40</div>
+    </a>
+    <a href="unicode/basic-latin/41/latin-capital-letter-a/" class="basic-latin charItem" title="LATIN CAPITAL LETTER A">
+        <div class="charItemSymbol ">&#65;</div>
+        <div class="charItemUPoint">U+41</div>
+    </a>
+    <a href="unicode/basic-latin/42/latin-capital-letter-b/" class="basic-latin charItem" title="LATIN CAPITAL LETTER B">
+        <div class="charItemSymbol ">&#66;</div>
+        <div class="charItemUPoint">U+42</div>
+    </a>
+    <a href="unicode/basic-latin/43/latin-capital-letter-c/" class="basic-latin charItem" title="LATIN CAPITAL LETTER C">
+        <div class="charItemSymbol ">&#67;</div>
+        <div class="charItemUPoint">U+43</div>
+    </a>
+    <a href="unicode/basic-latin/44/latin-capital-letter-d/" class="basic-latin charItem" title="LATIN CAPITAL LETTER D">
+        <div class="charItemSymbol ">&#68;</div>
+        <div class="charItemUPoint">U+44</div>
+    </a>
+    <a href="unicode/basic-latin/45/latin-capital-letter-e/" class="basic-latin charItem" title="LATIN CAPITAL LETTER E">
+        <div class="charItemSymbol ">&#69;</div>
+        <div class="charItemUPoint">U+45</div>
+    </a>
+    <a href="unicode/basic-latin/46/latin-capital-letter-f/" class="basic-latin charItem" title="LATIN CAPITAL LETTER F">
+        <div class="charItemSymbol ">&#70;</div>
+        <div class="charItemUPoint">U+46</div>
+    </a>
+    <a href="unicode/basic-latin/47/latin-capital-letter-g/" class="basic-latin charItem" title="LATIN CAPITAL LETTER G">
+        <div class="charItemSymbol ">&#71;</div>
+        <div class="charItemUPoint">U+47</div>
+    </a>
+    <a href="unicode/basic-latin/48/latin-capital-letter-h/" class="basic-latin charItem" title="LATIN CAPITAL LETTER H">
+        <div class="charItemSymbol ">&#72;</div>
+        <div class="charItemUPoint">U+48</div>
+    </a>
+    <a href="unicode/basic-latin/49/latin-capital-letter-i/" class="basic-latin charItem" title="LATIN CAPITAL LETTER I">
+        <div class="charItemSymbol ">&#73;</div>
+        <div class="charItemUPoint">U+49</div>
+    </a>
+    <a href="unicode/basic-latin/4a/latin-capital-letter-j/" class="basic-latin charItem" title="LATIN CAPITAL LETTER J">
+        <div class="charItemSymbol ">&#74;</div>
+        <div class="charItemUPoint">U+4A</div>
+    </a>
+    <a href="unicode/basic-latin/4b/latin-capital-letter-k/" class="basic-latin charItem" title="LATIN CAPITAL LETTER K">
+        <div class="charItemSymbol ">&#75;</div>
+        <div class="charItemUPoint">U+4B</div>
+    </a>
+    <a href="unicode/basic-latin/4c/latin-capital-letter-l/" class="basic-latin charItem" title="LATIN CAPITAL LETTER L">
+        <div class="charItemSymbol ">&#76;</div>
+        <div class="charItemUPoint">U+4C</div>
+    </a>
+    <a href="unicode/basic-latin/4d/latin-capital-letter-m/" class="basic-latin charItem" title="LATIN CAPITAL LETTER M">
+        <div class="charItemSymbol ">&#77;</div>
+        <div class="charItemUPoint">U+4D</div>
+    </a>
+    <a href="unicode/basic-latin/4e/latin-capital-letter-n/" class="basic-latin charItem" title="LATIN CAPITAL LETTER N">
+        <div class="charItemSymbol ">&#78;</div>
+        <div class="charItemUPoint">U+4E</div>
+    </a>
+    <a href="unicode/basic-latin/4f/latin-capital-letter-o/" class="basic-latin charItem" title="LATIN CAPITAL LETTER O">
+        <div class="charItemSymbol ">&#79;</div>
+        <div class="charItemUPoint">U+4F</div>
+    </a>
+    <a href="unicode/basic-latin/50/latin-capital-letter-p/" class="basic-latin charItem" title="LATIN CAPITAL LETTER P">
+        <div class="charItemSymbol ">&#80;</div>
+        <div class="charItemUPoint">U+50</div>
+    </a>
+    <a href="unicode/basic-latin/51/latin-capital-letter-q/" class="basic-latin charItem" title="LATIN CAPITAL LETTER Q">
+        <div class="charItemSymbol ">&#81;</div>
+        <div class="charItemUPoint">U+51</div>
+    </a>
+    <a href="unicode/basic-latin/52/latin-capital-letter-r/" class="basic-latin charItem" title="LATIN CAPITAL LETTER R">
+        <div class="charItemSymbol ">&#82;</div>
+        <div class="charItemUPoint">U+52</div>
+    </a>
+    <a href="unicode/basic-latin/53/latin-capital-letter-s/" class="basic-latin charItem" title="LATIN CAPITAL LETTER S">
+        <div class="charItemSymbol ">&#83;</div>
+        <div class="charItemUPoint">U+53</div>
+    </a>
+    <a href="unicode/basic-latin/54/latin-capital-letter-t/" class="basic-latin charItem" title="LATIN CAPITAL LETTER T">
+        <div class="charItemSymbol ">&#84;</div>
+        <div class="charItemUPoint">U+54</div>
+    </a>
+    <a href="unicode/basic-latin/55/latin-capital-letter-u/" class="basic-latin charItem" title="LATIN CAPITAL LETTER U">
+        <div class="charItemSymbol ">&#85;</div>
+        <div class="charItemUPoint">U+55</div>
+    </a>
+    <a href="unicode/basic-latin/56/latin-capital-letter-v/" class="basic-latin charItem" title="LATIN CAPITAL LETTER V">
+        <div class="charItemSymbol ">&#86;</div>
+        <div class="charItemUPoint">U+56</div>
+    </a>
+    <a href="unicode/basic-latin/57/latin-capital-letter-w/" class="basic-latin charItem" title="LATIN CAPITAL LETTER W">
+        <div class="charItemSymbol ">&#87;</div>
+        <div class="charItemUPoint">U+57</div>
+    </a>
+    <a href="unicode/basic-latin/58/latin-capital-letter-x/" class="basic-latin charItem" title="LATIN CAPITAL LETTER X">
+        <div class="charItemSymbol ">&#88;</div>
+        <div class="charItemUPoint">U+58</div>
+    </a>
+    <a href="unicode/basic-latin/59/latin-capital-letter-y/" class="basic-latin charItem" title="LATIN CAPITAL LETTER Y">
+        <div class="charItemSymbol ">&#89;</div>
+        <div class="charItemUPoint">U+59</div>
+    </a>
+    <a href="unicode/basic-latin/5a/latin-capital-letter-z/" class="basic-latin charItem" title="LATIN CAPITAL LETTER Z">
+        <div class="charItemSymbol ">&#90;</div>
+        <div class="charItemUPoint">U+5A</div>
+    </a>
+    <a href="unicode/basic-latin/5b/left-square-bracket/" class="basic-latin charItem" title="LEFT SQUARE BRACKET">
+        <div class="charItemSymbol ">&#91;</div>
+        <div class="charItemUPoint">U+5B</div>
+    </a>
+    <a href="unicode/basic-latin/5c/reverse-solidus/" class="basic-latin charItem" title="REVERSE SOLIDUS">
+        <div class="charItemSymbol ">&#92;</div>
+        <div class="charItemUPoint">U+5C</div>
+    </a>
+    <a href="unicode/basic-latin/5d/right-square-bracket/" class="basic-latin charItem" title="RIGHT SQUARE BRACKET">
+        <div class="charItemSymbol ">&#93;</div>
+        <div class="charItemUPoint">U+5D</div>
+    </a>
+    <a href="unicode/basic-latin/5e/circumflex-accent/" class="basic-latin charItem" title="CIRCUMFLEX ACCENT">
+        <div class="charItemSymbol ">&#94;</div>
+        <div class="charItemUPoint">U+5E</div>
+    </a>
+    <a href="unicode/basic-latin/5f/low-line/" class="basic-latin charItem" title="LOW LINE">
+        <div class="charItemSymbol ">&#95;</div>
+        <div class="charItemUPoint">U+5F</div>
+    </a>
+    <a href="unicode/basic-latin/60/grave-accent/" class="basic-latin charItem" title="GRAVE ACCENT">
+        <div class="charItemSymbol ">&#96;</div>
+        <div class="charItemUPoint">U+60</div>
+    </a>
+    <a href="unicode/basic-latin/61/latin-small-letter-a/" class="basic-latin charItem" title="LATIN SMALL LETTER A">
+        <div class="charItemSymbol ">&#97;</div>
+        <div class="charItemUPoint">U+61</div>
+    </a>
+    <a href="unicode/basic-latin/62/latin-small-letter-b/" class="basic-latin charItem" title="LATIN SMALL LETTER B">
+        <div class="charItemSymbol ">&#98;</div>
+        <div class="charItemUPoint">U+62</div>
+    </a>
+    <a href="unicode/basic-latin/63/latin-small-letter-c/" class="basic-latin charItem" title="LATIN SMALL LETTER C">
+        <div class="charItemSymbol ">&#99;</div>
+        <div class="charItemUPoint">U+63</div>
+    </a>
+    <a href="unicode/basic-latin/64/latin-small-letter-d/" class="basic-latin charItem" title="LATIN SMALL LETTER D">
+        <div class="charItemSymbol ">&#100;</div>
+        <div class="charItemUPoint">U+64</div>
+    </a>
+    <a href="unicode/basic-latin/65/latin-small-letter-e/" class="basic-latin charItem" title="LATIN SMALL LETTER E">
+        <div class="charItemSymbol ">&#101;</div>
+        <div class="charItemUPoint">U+65</div>
+    </a>
+    <a href="unicode/basic-latin/66/latin-small-letter-f/" class="basic-latin charItem" title="LATIN SMALL LETTER F">
+        <div class="charItemSymbol ">&#102;</div>
+        <div class="charItemUPoint">U+66</div>
+    </a>
+    <a href="unicode/basic-latin/67/latin-small-letter-g/" class="basic-latin charItem" title="LATIN SMALL LETTER G">
+        <div class="charItemSymbol ">&#103;</div>
+        <div class="charItemUPoint">U+67</div>
+    </a>
+    <a href="unicode/basic-latin/68/latin-small-letter-h/" class="basic-latin charItem" title="LATIN SMALL LETTER H">
+        <div class="charItemSymbol ">&#104;</div>
+        <div class="charItemUPoint">U+68</div>
+    </a>
+    <a href="unicode/basic-latin/69/latin-small-letter-i/" class="basic-latin charItem" title="LATIN SMALL LETTER I">
+        <div class="charItemSymbol ">&#105;</div>
+        <div class="charItemUPoint">U+69</div>
+    </a>
+    <a href="unicode/basic-latin/6a/latin-small-letter-j/" class="basic-latin charItem" title="LATIN SMALL LETTER J">
+        <div class="charItemSymbol ">&#106;</div>
+        <div class="charItemUPoint">U+6A</div>
+    </a>
+    <a href="unicode/basic-latin/6b/latin-small-letter-k/" class="basic-latin charItem" title="LATIN SMALL LETTER K">
+        <div class="charItemSymbol ">&#107;</div>
+        <div class="charItemUPoint">U+6B</div>
+    </a>
+    <a href="unicode/basic-latin/6c/latin-small-letter-l/" class="basic-latin charItem" title="LATIN SMALL LETTER L">
+        <div class="charItemSymbol ">&#108;</div>
+        <div class="charItemUPoint">U+6C</div>
+    </a>
+    <a href="unicode/basic-latin/6d/latin-small-letter-m/" class="basic-latin charItem" title="LATIN SMALL LETTER M">
+        <div class="charItemSymbol ">&#109;</div>
+        <div class="charItemUPoint">U+6D</div>
+    </a>
+    <a href="unicode/basic-latin/6e/latin-small-letter-n/" class="basic-latin charItem" title="LATIN SMALL LETTER N">
+        <div class="charItemSymbol ">&#110;</div>
+        <div class="charItemUPoint">U+6E</div>
+    </a>
+    <a href="unicode/basic-latin/6f/latin-small-letter-o/" class="basic-latin charItem" title="LATIN SMALL LETTER O">
+        <div class="charItemSymbol ">&#111;</div>
+        <div class="charItemUPoint">U+6F</div>
+    </a>
+    <a href="unicode/basic-latin/70/latin-small-letter-p/" class="basic-latin charItem" title="LATIN SMALL LETTER P">
+        <div class="charItemSymbol ">&#112;</div>
+        <div class="charItemUPoint">U+70</div>
+    </a>
+    <a href="unicode/basic-latin/71/latin-small-letter-q/" class="basic-latin charItem" title="LATIN SMALL LETTER Q">
+        <div class="charItemSymbol ">&#113;</div>
+        <div class="charItemUPoint">U+71</div>
+    </a>
+    <a href="unicode/basic-latin/72/latin-small-letter-r/" class="basic-latin charItem" title="LATIN SMALL LETTER R">
+        <div class="charItemSymbol ">&#114;</div>
+        <div class="charItemUPoint">U+72</div>
+    </a>
+    <a href="unicode/basic-latin/73/latin-small-letter-s/" class="basic-latin charItem" title="LATIN SMALL LETTER S">
+        <div class="charItemSymbol ">&#115;</div>
+        <div class="charItemUPoint">U+73</div>
+    </a>
+    <a href="unicode/basic-latin/74/latin-small-letter-t/" class="basic-latin charItem" title="LATIN SMALL LETTER T">
+        <div class="charItemSymbol ">&#116;</div>
+        <div class="charItemUPoint">U+74</div>
+    </a>
+    <a href="unicode/basic-latin/75/latin-small-letter-u/" class="basic-latin charItem" title="LATIN SMALL LETTER U">
+        <div class="charItemSymbol ">&#117;</div>
+        <div class="charItemUPoint">U+75</div>
+    </a>
+    <a href="unicode/basic-latin/76/latin-small-letter-v/" class="basic-latin charItem" title="LATIN SMALL LETTER V">
+        <div class="charItemSymbol ">&#118;</div>
+        <div class="charItemUPoint">U+76</div>
+    </a>
+    <a href="unicode/basic-latin/77/latin-small-letter-w/" class="basic-latin charItem" title="LATIN SMALL LETTER W">
+        <div class="charItemSymbol ">&#119;</div>
+        <div class="charItemUPoint">U+77</div>
+    </a>
+    <a href="unicode/basic-latin/78/latin-small-letter-x/" class="basic-latin charItem" title="LATIN SMALL LETTER X">
+        <div class="charItemSymbol ">&#120;</div>
+        <div class="charItemUPoint">U+78</div>
+    </a>
+    <a href="unicode/basic-latin/79/latin-small-letter-y/" class="basic-latin charItem" title="LATIN SMALL LETTER Y">
+        <div class="charItemSymbol ">&#121;</div>
+        <div class="charItemUPoint">U+79</div>
+    </a>
+    <a href="unicode/basic-latin/7a/latin-small-letter-z/" class="basic-latin charItem" title="LATIN SMALL LETTER Z">
+        <div class="charItemSymbol ">&#122;</div>
+        <div class="charItemUPoint">U+7A</div>
+    </a>
+    <a href="unicode/basic-latin/7b/left-curly-bracket/" class="basic-latin charItem" title="LEFT CURLY BRACKET">
+        <div class="charItemSymbol ">&#123;</div>
+        <div class="charItemUPoint">U+7B</div>
+    </a>
+    <a href="unicode/basic-latin/7c/vertical-line/" class="basic-latin charItem" title="VERTICAL LINE">
+        <div class="charItemSymbol ">&#124;</div>
+        <div class="charItemUPoint">U+7C</div>
+    </a>
+    <a href="unicode/basic-latin/7d/right-curly-bracket/" class="basic-latin charItem" title="RIGHT CURLY BRACKET">
+        <div class="charItemSymbol ">&#125;</div>
+        <div class="charItemUPoint">U+7D</div>
+    </a>
+    <a href="unicode/basic-latin/7e/tilde/" class="basic-latin charItem" title="TILDE">
+        <div class="charItemSymbol ">&#126;</div>
+        <div class="charItemUPoint">U+7E</div>
+    </a>
+    <a href="unicode/basic-latin/7f/control-007f/" class="basic-latin charItem" title="">
+        <div class="charItemSymbol ">&#127;</div>
+        <div class="charItemUPoint">U+7F</div>
+    </a>
+    <a href="unicode/latin-1-supplement/80/control-0080/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#128;</div>
+        <div class="charItemUPoint">U+80</div>
+    </a>
+    <a href="unicode/latin-1-supplement/81/control-0081/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#129;</div>
+        <div class="charItemUPoint">U+81</div>
+    </a>
+    <a href="unicode/latin-1-supplement/82/control-0082/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#130;</div>
+        <div class="charItemUPoint">U+82</div>
+    </a>
+    <a href="unicode/latin-1-supplement/83/control-0083/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#131;</div>
+        <div class="charItemUPoint">U+83</div>
+    </a>
+    <a href="unicode/latin-1-supplement/84/control-0084/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#132;</div>
+        <div class="charItemUPoint">U+84</div>
+    </a>
+    <a href="unicode/latin-1-supplement/85/control-0085/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#133;</div>
+        <div class="charItemUPoint">U+85</div>
+    </a>
+    <a href="unicode/latin-1-supplement/86/control-0086/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#134;</div>
+        <div class="charItemUPoint">U+86</div>
+    </a>
+    <a href="unicode/latin-1-supplement/87/control-0087/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#135;</div>
+        <div class="charItemUPoint">U+87</div>
+    </a>
+    <a href="unicode/latin-1-supplement/88/control-0088/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#136;</div>
+        <div class="charItemUPoint">U+88</div>
+    </a>
+    <a href="unicode/latin-1-supplement/89/control-0089/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#137;</div>
+        <div class="charItemUPoint">U+89</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8a/control-008a/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#138;</div>
+        <div class="charItemUPoint">U+8A</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8b/control-008b/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#139;</div>
+        <div class="charItemUPoint">U+8B</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8c/control-008c/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#140;</div>
+        <div class="charItemUPoint">U+8C</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8d/control-008d/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#141;</div>
+        <div class="charItemUPoint">U+8D</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8e/control-008e/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#142;</div>
+        <div class="charItemUPoint">U+8E</div>
+    </a>
+    <a href="unicode/latin-1-supplement/8f/control-008f/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#143;</div>
+        <div class="charItemUPoint">U+8F</div>
+    </a>
+    <a href="unicode/latin-1-supplement/90/control-0090/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#144;</div>
+        <div class="charItemUPoint">U+90</div>
+    </a>
+    <a href="unicode/latin-1-supplement/91/control-0091/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#145;</div>
+        <div class="charItemUPoint">U+91</div>
+    </a>
+    <a href="unicode/latin-1-supplement/92/control-0092/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#146;</div>
+        <div class="charItemUPoint">U+92</div>
+    </a>
+    <a href="unicode/latin-1-supplement/93/control-0093/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#147;</div>
+        <div class="charItemUPoint">U+93</div>
+    </a>
+    <a href="unicode/latin-1-supplement/94/control-0094/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#148;</div>
+        <div class="charItemUPoint">U+94</div>
+    </a>
+    <a href="unicode/latin-1-supplement/95/control-0095/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#149;</div>
+        <div class="charItemUPoint">U+95</div>
+    </a>
+    <a href="unicode/latin-1-supplement/96/control-0096/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#150;</div>
+        <div class="charItemUPoint">U+96</div>
+    </a>
+    <a href="unicode/latin-1-supplement/97/control-0097/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#151;</div>
+        <div class="charItemUPoint">U+97</div>
+    </a>
+    <a href="unicode/latin-1-supplement/98/control-0098/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#152;</div>
+        <div class="charItemUPoint">U+98</div>
+    </a>
+    <a href="unicode/latin-1-supplement/99/control-0099/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#153;</div>
+        <div class="charItemUPoint">U+99</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9a/control-009a/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#154;</div>
+        <div class="charItemUPoint">U+9A</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9b/control-009b/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#155;</div>
+        <div class="charItemUPoint">U+9B</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9c/control-009c/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#156;</div>
+        <div class="charItemUPoint">U+9C</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9d/control-009d/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#157;</div>
+        <div class="charItemUPoint">U+9D</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9e/control-009e/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#158;</div>
+        <div class="charItemUPoint">U+9E</div>
+    </a>
+    <a href="unicode/latin-1-supplement/9f/control-009f/" class="latin-1-supplement charItem" title="">
+        <div class="charItemSymbol ">&#159;</div>
+        <div class="charItemUPoint">U+9F</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a0/no-break-space/" class="latin-1-supplement charItem" title="NO-BREAK SPACE">
+        <div class="charItemSymbol ">&#160;</div>
+        <div class="charItemUPoint">U+A0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a1/inverted-exclamation-mark/" class="latin-1-supplement charItem" title="INVERTED EXCLAMATION MARK">
+        <div class="charItemSymbol ">&#161;</div>
+        <div class="charItemUPoint">U+A1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a2/cent-sign/" class="latin-1-supplement charItem" title="CENT SIGN">
+        <div class="charItemSymbol ">&#162;</div>
+        <div class="charItemUPoint">U+A2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a3/pound-sign/" class="latin-1-supplement charItem" title="POUND SIGN">
+        <div class="charItemSymbol ">&#163;</div>
+        <div class="charItemUPoint">U+A3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a4/currency-sign/" class="latin-1-supplement charItem" title="CURRENCY SIGN">
+        <div class="charItemSymbol ">&#164;</div>
+        <div class="charItemUPoint">U+A4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a5/yen-sign/" class="latin-1-supplement charItem" title="YEN SIGN">
+        <div class="charItemSymbol ">&#165;</div>
+        <div class="charItemUPoint">U+A5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a6/broken-bar/" class="latin-1-supplement charItem" title="BROKEN BAR">
+        <div class="charItemSymbol ">&#166;</div>
+        <div class="charItemUPoint">U+A6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a7/section-sign/" class="latin-1-supplement charItem" title="SECTION SIGN">
+        <div class="charItemSymbol ">&#167;</div>
+        <div class="charItemUPoint">U+A7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a8/diaeresis/" class="latin-1-supplement charItem" title="DIAERESIS">
+        <div class="charItemSymbol ">&#168;</div>
+        <div class="charItemUPoint">U+A8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/a9/copyright-sign/" class="latin-1-supplement charItem" title="COPYRIGHT SIGN">
+        <div class="charItemSymbol ">&#169;</div>
+        <div class="charItemUPoint">U+A9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/aa/feminine-ordinal-indicator/" class="latin-1-supplement charItem" title="FEMININE ORDINAL INDICATOR">
+        <div class="charItemSymbol ">&#170;</div>
+        <div class="charItemUPoint">U+AA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ab/left-pointing-double-angle-quotation-mark/" class="latin-1-supplement charItem" title="LEFT-POINTING DOUBLE ANGLE QUOTATION MARK">
+        <div class="charItemSymbol ">&#171;</div>
+        <div class="charItemUPoint">U+AB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ac/not-sign/" class="latin-1-supplement charItem" title="NOT SIGN">
+        <div class="charItemSymbol ">&#172;</div>
+        <div class="charItemUPoint">U+AC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ad/soft-hyphen/" class="latin-1-supplement charItem" title="SOFT HYPHEN">
+        <div class="charItemSymbol ">&#173;</div>
+        <div class="charItemUPoint">U+AD</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ae/registered-sign/" class="latin-1-supplement charItem" title="REGISTERED SIGN">
+        <div class="charItemSymbol ">&#174;</div>
+        <div class="charItemUPoint">U+AE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/af/macron/" class="latin-1-supplement charItem" title="MACRON">
+        <div class="charItemSymbol ">&#175;</div>
+        <div class="charItemUPoint">U+AF</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b0/degree-sign/" class="latin-1-supplement charItem" title="DEGREE SIGN">
+        <div class="charItemSymbol ">&#176;</div>
+        <div class="charItemUPoint">U+B0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b1/plus-minus-sign/" class="latin-1-supplement charItem" title="PLUS-MINUS SIGN">
+        <div class="charItemSymbol ">&#177;</div>
+        <div class="charItemUPoint">U+B1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b2/superscript-two/" class="latin-1-supplement charItem" title="SUPERSCRIPT TWO">
+        <div class="charItemSymbol ">&#178;</div>
+        <div class="charItemUPoint">U+B2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b3/superscript-three/" class="latin-1-supplement charItem" title="SUPERSCRIPT THREE">
+        <div class="charItemSymbol ">&#179;</div>
+        <div class="charItemUPoint">U+B3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b4/acute-accent/" class="latin-1-supplement charItem" title="ACUTE ACCENT">
+        <div class="charItemSymbol ">&#180;</div>
+        <div class="charItemUPoint">U+B4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b5/micro-sign/" class="latin-1-supplement charItem" title="MICRO SIGN">
+        <div class="charItemSymbol ">&#181;</div>
+        <div class="charItemUPoint">U+B5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b6/pilcrow-sign/" class="latin-1-supplement charItem" title="PILCROW SIGN">
+        <div class="charItemSymbol ">&#182;</div>
+        <div class="charItemUPoint">U+B6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b7/middle-dot/" class="latin-1-supplement charItem" title="MIDDLE DOT">
+        <div class="charItemSymbol ">&#183;</div>
+        <div class="charItemUPoint">U+B7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b8/cedilla/" class="latin-1-supplement charItem" title="CEDILLA">
+        <div class="charItemSymbol ">&#184;</div>
+        <div class="charItemUPoint">U+B8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/b9/superscript-one/" class="latin-1-supplement charItem" title="SUPERSCRIPT ONE">
+        <div class="charItemSymbol ">&#185;</div>
+        <div class="charItemUPoint">U+B9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ba/masculine-ordinal-indicator/" class="latin-1-supplement charItem" title="MASCULINE ORDINAL INDICATOR">
+        <div class="charItemSymbol ">&#186;</div>
+        <div class="charItemUPoint">U+BA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/bb/right-pointing-double-angle-quotation-mark/" class="latin-1-supplement charItem" title="RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK">
+        <div class="charItemSymbol ">&#187;</div>
+        <div class="charItemUPoint">U+BB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/bc/vulgar-fraction-one-quarter/" class="latin-1-supplement charItem" title="VULGAR FRACTION ONE QUARTER">
+        <div class="charItemSymbol ">&#188;</div>
+        <div class="charItemUPoint">U+BC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/bd/vulgar-fraction-one-half/" class="latin-1-supplement charItem" title="VULGAR FRACTION ONE HALF">
+        <div class="charItemSymbol ">&#189;</div>
+        <div class="charItemUPoint">U+BD</div>
+    </a>
+    <a href="unicode/latin-1-supplement/be/vulgar-fraction-three-quarters/" class="latin-1-supplement charItem" title="VULGAR FRACTION THREE QUARTERS">
+        <div class="charItemSymbol ">&#190;</div>
+        <div class="charItemUPoint">U+BE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/bf/inverted-question-mark/" class="latin-1-supplement charItem" title="INVERTED QUESTION MARK">
+        <div class="charItemSymbol ">&#191;</div>
+        <div class="charItemUPoint">U+BF</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c0/latin-capital-letter-a-with-grave/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH GRAVE">
+        <div class="charItemSymbol ">&#192;</div>
+        <div class="charItemUPoint">U+C0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c1/latin-capital-letter-a-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH ACUTE">
+        <div class="charItemSymbol ">&#193;</div>
+        <div class="charItemUPoint">U+C1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c2/latin-capital-letter-a-with-circumflex/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#194;</div>
+        <div class="charItemUPoint">U+C2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c3/latin-capital-letter-a-with-tilde/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH TILDE">
+        <div class="charItemSymbol ">&#195;</div>
+        <div class="charItemUPoint">U+C3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c4/latin-capital-letter-a-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH DIAERESIS">
+        <div class="charItemSymbol ">&#196;</div>
+        <div class="charItemUPoint">U+C4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c5/latin-capital-letter-a-with-ring-above/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER A WITH RING ABOVE">
+        <div class="charItemSymbol ">&#197;</div>
+        <div class="charItemUPoint">U+C5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c6/latin-capital-letter-ae/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER AE">
+        <div class="charItemSymbol ">&#198;</div>
+        <div class="charItemUPoint">U+C6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c7/latin-capital-letter-c-with-cedilla/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER C WITH CEDILLA">
+        <div class="charItemSymbol ">&#199;</div>
+        <div class="charItemUPoint">U+C7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c8/latin-capital-letter-e-with-grave/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER E WITH GRAVE">
+        <div class="charItemSymbol ">&#200;</div>
+        <div class="charItemUPoint">U+C8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/c9/latin-capital-letter-e-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER E WITH ACUTE">
+        <div class="charItemSymbol ">&#201;</div>
+        <div class="charItemUPoint">U+C9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ca/latin-capital-letter-e-with-circumflex/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#202;</div>
+        <div class="charItemUPoint">U+CA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/cb/latin-capital-letter-e-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER E WITH DIAERESIS">
+        <div class="charItemSymbol ">&#203;</div>
+        <div class="charItemUPoint">U+CB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/cc/latin-capital-letter-i-with-grave/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER I WITH GRAVE">
+        <div class="charItemSymbol ">&#204;</div>
+        <div class="charItemUPoint">U+CC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/cd/latin-capital-letter-i-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER I WITH ACUTE">
+        <div class="charItemSymbol ">&#205;</div>
+        <div class="charItemUPoint">U+CD</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ce/latin-capital-letter-i-with-circumflex/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER I WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#206;</div>
+        <div class="charItemUPoint">U+CE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/cf/latin-capital-letter-i-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER I WITH DIAERESIS">
+        <div class="charItemSymbol ">&#207;</div>
+        <div class="charItemUPoint">U+CF</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d0/latin-capital-letter-eth/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER ETH">
+        <div class="charItemSymbol ">&#208;</div>
+        <div class="charItemUPoint">U+D0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d1/latin-capital-letter-n-with-tilde/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER N WITH TILDE">
+        <div class="charItemSymbol ">&#209;</div>
+        <div class="charItemUPoint">U+D1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d2/latin-capital-letter-o-with-grave/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH GRAVE">
+        <div class="charItemSymbol ">&#210;</div>
+        <div class="charItemUPoint">U+D2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d3/latin-capital-letter-o-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH ACUTE">
+        <div class="charItemSymbol ">&#211;</div>
+        <div class="charItemUPoint">U+D3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d4/latin-capital-letter-o-with-circumflex/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#212;</div>
+        <div class="charItemUPoint">U+D4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d5/latin-capital-letter-o-with-tilde/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH TILDE">
+        <div class="charItemSymbol ">&#213;</div>
+        <div class="charItemUPoint">U+D5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d6/latin-capital-letter-o-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH DIAERESIS">
+        <div class="charItemSymbol ">&#214;</div>
+        <div class="charItemUPoint">U+D6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d7/multiplication-sign/" class="latin-1-supplement charItem" title="MULTIPLICATION SIGN">
+        <div class="charItemSymbol ">&#215;</div>
+        <div class="charItemUPoint">U+D7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d8/latin-capital-letter-o-with-stroke/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER O WITH STROKE">
+        <div class="charItemSymbol ">&#216;</div>
+        <div class="charItemUPoint">U+D8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/d9/latin-capital-letter-u-with-grave/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER U WITH GRAVE">
+        <div class="charItemSymbol ">&#217;</div>
+        <div class="charItemUPoint">U+D9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/da/latin-capital-letter-u-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER U WITH ACUTE">
+        <div class="charItemSymbol ">&#218;</div>
+        <div class="charItemUPoint">U+DA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/db/latin-capital-letter-u-with-circumflex/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER U WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#219;</div>
+        <div class="charItemUPoint">U+DB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/dc/latin-capital-letter-u-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER U WITH DIAERESIS">
+        <div class="charItemSymbol ">&#220;</div>
+        <div class="charItemUPoint">U+DC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/dd/latin-capital-letter-y-with-acute/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER Y WITH ACUTE">
+        <div class="charItemSymbol ">&#221;</div>
+        <div class="charItemUPoint">U+DD</div>
+    </a>
+    <a href="unicode/latin-1-supplement/de/latin-capital-letter-thorn/" class="latin-1-supplement charItem" title="LATIN CAPITAL LETTER THORN">
+        <div class="charItemSymbol ">&#222;</div>
+        <div class="charItemUPoint">U+DE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/df/latin-small-letter-sharp-s/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER SHARP S">
+        <div class="charItemSymbol ">&#223;</div>
+        <div class="charItemUPoint">U+DF</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e0/latin-small-letter-a-with-grave/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH GRAVE">
+        <div class="charItemSymbol ">&#224;</div>
+        <div class="charItemUPoint">U+E0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e1/latin-small-letter-a-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH ACUTE">
+        <div class="charItemSymbol ">&#225;</div>
+        <div class="charItemUPoint">U+E1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e2/latin-small-letter-a-with-circumflex/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#226;</div>
+        <div class="charItemUPoint">U+E2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e3/latin-small-letter-a-with-tilde/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH TILDE">
+        <div class="charItemSymbol ">&#227;</div>
+        <div class="charItemUPoint">U+E3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e4/latin-small-letter-a-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH DIAERESIS">
+        <div class="charItemSymbol ">&#228;</div>
+        <div class="charItemUPoint">U+E4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e5/latin-small-letter-a-with-ring-above/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER A WITH RING ABOVE">
+        <div class="charItemSymbol ">&#229;</div>
+        <div class="charItemUPoint">U+E5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e6/latin-small-letter-ae/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER AE">
+        <div class="charItemSymbol ">&#230;</div>
+        <div class="charItemUPoint">U+E6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e7/latin-small-letter-c-with-cedilla/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER C WITH CEDILLA">
+        <div class="charItemSymbol ">&#231;</div>
+        <div class="charItemUPoint">U+E7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e8/latin-small-letter-e-with-grave/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER E WITH GRAVE">
+        <div class="charItemSymbol ">&#232;</div>
+        <div class="charItemUPoint">U+E8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/e9/latin-small-letter-e-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER E WITH ACUTE">
+        <div class="charItemSymbol ">&#233;</div>
+        <div class="charItemUPoint">U+E9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ea/latin-small-letter-e-with-circumflex/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER E WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#234;</div>
+        <div class="charItemUPoint">U+EA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/eb/latin-small-letter-e-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER E WITH DIAERESIS">
+        <div class="charItemSymbol ">&#235;</div>
+        <div class="charItemUPoint">U+EB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ec/latin-small-letter-i-with-grave/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER I WITH GRAVE">
+        <div class="charItemSymbol ">&#236;</div>
+        <div class="charItemUPoint">U+EC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ed/latin-small-letter-i-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER I WITH ACUTE">
+        <div class="charItemSymbol ">&#237;</div>
+        <div class="charItemUPoint">U+ED</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ee/latin-small-letter-i-with-circumflex/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#238;</div>
+        <div class="charItemUPoint">U+EE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ef/latin-small-letter-i-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER I WITH DIAERESIS">
+        <div class="charItemSymbol ">&#239;</div>
+        <div class="charItemUPoint">U+EF</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f0/latin-small-letter-eth/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER ETH">
+        <div class="charItemSymbol ">&#240;</div>
+        <div class="charItemUPoint">U+F0</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f1/latin-small-letter-n-with-tilde/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER N WITH TILDE">
+        <div class="charItemSymbol ">&#241;</div>
+        <div class="charItemUPoint">U+F1</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f2/latin-small-letter-o-with-grave/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH GRAVE">
+        <div class="charItemSymbol ">&#242;</div>
+        <div class="charItemUPoint">U+F2</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f3/latin-small-letter-o-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH ACUTE">
+        <div class="charItemSymbol ">&#243;</div>
+        <div class="charItemUPoint">U+F3</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f4/latin-small-letter-o-with-circumflex/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#244;</div>
+        <div class="charItemUPoint">U+F4</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f5/latin-small-letter-o-with-tilde/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH TILDE">
+        <div class="charItemSymbol ">&#245;</div>
+        <div class="charItemUPoint">U+F5</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f6/latin-small-letter-o-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH DIAERESIS">
+        <div class="charItemSymbol ">&#246;</div>
+        <div class="charItemUPoint">U+F6</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f7/division-sign/" class="latin-1-supplement charItem" title="DIVISION SIGN">
+        <div class="charItemSymbol ">&#247;</div>
+        <div class="charItemUPoint">U+F7</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f8/latin-small-letter-o-with-stroke/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER O WITH STROKE">
+        <div class="charItemSymbol ">&#248;</div>
+        <div class="charItemUPoint">U+F8</div>
+    </a>
+    <a href="unicode/latin-1-supplement/f9/latin-small-letter-u-with-grave/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER U WITH GRAVE">
+        <div class="charItemSymbol ">&#249;</div>
+        <div class="charItemUPoint">U+F9</div>
+    </a>
+    <a href="unicode/latin-1-supplement/fa/latin-small-letter-u-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER U WITH ACUTE">
+        <div class="charItemSymbol ">&#250;</div>
+        <div class="charItemUPoint">U+FA</div>
+    </a>
+    <a href="unicode/latin-1-supplement/fb/latin-small-letter-u-with-circumflex/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#251;</div>
+        <div class="charItemUPoint">U+FB</div>
+    </a>
+    <a href="unicode/latin-1-supplement/fc/latin-small-letter-u-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER U WITH DIAERESIS">
+        <div class="charItemSymbol ">&#252;</div>
+        <div class="charItemUPoint">U+FC</div>
+    </a>
+    <a href="unicode/latin-1-supplement/fd/latin-small-letter-y-with-acute/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER Y WITH ACUTE">
+        <div class="charItemSymbol ">&#253;</div>
+        <div class="charItemUPoint">U+FD</div>
+    </a>
+    <a href="unicode/latin-1-supplement/fe/latin-small-letter-thorn/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER THORN">
+        <div class="charItemSymbol ">&#254;</div>
+        <div class="charItemUPoint">U+FE</div>
+    </a>
+    <a href="unicode/latin-1-supplement/ff/latin-small-letter-y-with-diaeresis/" class="latin-1-supplement charItem" title="LATIN SMALL LETTER Y WITH DIAERESIS">
+        <div class="charItemSymbol ">&#255;</div>
+        <div class="charItemUPoint">U+FF</div>
+    </a>
+    <a href="unicode/latin-extended-a/100/latin-capital-letter-a-with-macron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER A WITH MACRON">
+        <div class="charItemSymbol ">&#256;</div>
+        <div class="charItemUPoint">U+100</div>
+    </a>
+    <a href="unicode/latin-extended-a/101/latin-small-letter-a-with-macron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER A WITH MACRON">
+        <div class="charItemSymbol ">&#257;</div>
+        <div class="charItemUPoint">U+101</div>
+    </a>
+    <a href="unicode/latin-extended-a/102/latin-capital-letter-a-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER A WITH BREVE">
+        <div class="charItemSymbol ">&#258;</div>
+        <div class="charItemUPoint">U+102</div>
+    </a>
+    <a href="unicode/latin-extended-a/103/latin-small-letter-a-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER A WITH BREVE">
+        <div class="charItemSymbol ">&#259;</div>
+        <div class="charItemUPoint">U+103</div>
+    </a>
+    <a href="unicode/latin-extended-a/104/latin-capital-letter-a-with-ogonek/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER A WITH OGONEK">
+        <div class="charItemSymbol ">&#260;</div>
+        <div class="charItemUPoint">U+104</div>
+    </a>
+    <a href="unicode/latin-extended-a/105/latin-small-letter-a-with-ogonek/" class="latin-extended-a charItem" title="LATIN SMALL LETTER A WITH OGONEK">
+        <div class="charItemSymbol ">&#261;</div>
+        <div class="charItemUPoint">U+105</div>
+    </a>
+    <a href="unicode/latin-extended-a/106/latin-capital-letter-c-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER C WITH ACUTE">
+        <div class="charItemSymbol ">&#262;</div>
+        <div class="charItemUPoint">U+106</div>
+    </a>
+    <a href="unicode/latin-extended-a/107/latin-small-letter-c-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER C WITH ACUTE">
+        <div class="charItemSymbol ">&#263;</div>
+        <div class="charItemUPoint">U+107</div>
+    </a>
+    <a href="unicode/latin-extended-a/108/latin-capital-letter-c-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER C WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#264;</div>
+        <div class="charItemUPoint">U+108</div>
+    </a>
+    <a href="unicode/latin-extended-a/109/latin-small-letter-c-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER C WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#265;</div>
+        <div class="charItemUPoint">U+109</div>
+    </a>
+    <a href="unicode/latin-extended-a/10a/latin-capital-letter-c-with-dot-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER C WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#266;</div>
+        <div class="charItemUPoint">U+10A</div>
+    </a>
+    <a href="unicode/latin-extended-a/10b/latin-small-letter-c-with-dot-above/" class="latin-extended-a charItem" title="LATIN SMALL LETTER C WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#267;</div>
+        <div class="charItemUPoint">U+10B</div>
+    </a>
+    <a href="unicode/latin-extended-a/10c/latin-capital-letter-c-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER C WITH CARON">
+        <div class="charItemSymbol ">&#268;</div>
+        <div class="charItemUPoint">U+10C</div>
+    </a>
+    <a href="unicode/latin-extended-a/10d/latin-small-letter-c-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER C WITH CARON">
+        <div class="charItemSymbol ">&#269;</div>
+        <div class="charItemUPoint">U+10D</div>
+    </a>
+    <a href="unicode/latin-extended-a/10e/latin-capital-letter-d-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER D WITH CARON">
+        <div class="charItemSymbol ">&#270;</div>
+        <div class="charItemUPoint">U+10E</div>
+    </a>
+    <a href="unicode/latin-extended-a/10f/latin-small-letter-d-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER D WITH CARON">
+        <div class="charItemSymbol ">&#271;</div>
+        <div class="charItemUPoint">U+10F</div>
+    </a>
+    <a href="unicode/latin-extended-a/110/latin-capital-letter-d-with-stroke/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER D WITH STROKE">
+        <div class="charItemSymbol ">&#272;</div>
+        <div class="charItemUPoint">U+110</div>
+    </a>
+    <a href="unicode/latin-extended-a/111/latin-small-letter-d-with-stroke/" class="latin-extended-a charItem" title="LATIN SMALL LETTER D WITH STROKE">
+        <div class="charItemSymbol ">&#273;</div>
+        <div class="charItemUPoint">U+111</div>
+    </a>
+    <a href="unicode/latin-extended-a/112/latin-capital-letter-e-with-macron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER E WITH MACRON">
+        <div class="charItemSymbol ">&#274;</div>
+        <div class="charItemUPoint">U+112</div>
+    </a>
+    <a href="unicode/latin-extended-a/113/latin-small-letter-e-with-macron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER E WITH MACRON">
+        <div class="charItemSymbol ">&#275;</div>
+        <div class="charItemUPoint">U+113</div>
+    </a>
+    <a href="unicode/latin-extended-a/114/latin-capital-letter-e-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER E WITH BREVE">
+        <div class="charItemSymbol ">&#276;</div>
+        <div class="charItemUPoint">U+114</div>
+    </a>
+    <a href="unicode/latin-extended-a/115/latin-small-letter-e-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER E WITH BREVE">
+        <div class="charItemSymbol ">&#277;</div>
+        <div class="charItemUPoint">U+115</div>
+    </a>
+    <a href="unicode/latin-extended-a/116/latin-capital-letter-e-with-dot-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER E WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#278;</div>
+        <div class="charItemUPoint">U+116</div>
+    </a>
+    <a href="unicode/latin-extended-a/117/latin-small-letter-e-with-dot-above/" class="latin-extended-a charItem" title="LATIN SMALL LETTER E WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#279;</div>
+        <div class="charItemUPoint">U+117</div>
+    </a>
+    <a href="unicode/latin-extended-a/118/latin-capital-letter-e-with-ogonek/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER E WITH OGONEK">
+        <div class="charItemSymbol ">&#280;</div>
+        <div class="charItemUPoint">U+118</div>
+    </a>
+    <a href="unicode/latin-extended-a/119/latin-small-letter-e-with-ogonek/" class="latin-extended-a charItem" title="LATIN SMALL LETTER E WITH OGONEK">
+        <div class="charItemSymbol ">&#281;</div>
+        <div class="charItemUPoint">U+119</div>
+    </a>
+    <a href="unicode/latin-extended-a/11a/latin-capital-letter-e-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER E WITH CARON">
+        <div class="charItemSymbol ">&#282;</div>
+        <div class="charItemUPoint">U+11A</div>
+    </a>
+    <a href="unicode/latin-extended-a/11b/latin-small-letter-e-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER E WITH CARON">
+        <div class="charItemSymbol ">&#283;</div>
+        <div class="charItemUPoint">U+11B</div>
+    </a>
+    <a href="unicode/latin-extended-a/11c/latin-capital-letter-g-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER G WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#284;</div>
+        <div class="charItemUPoint">U+11C</div>
+    </a>
+    <a href="unicode/latin-extended-a/11d/latin-small-letter-g-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER G WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#285;</div>
+        <div class="charItemUPoint">U+11D</div>
+    </a>
+    <a href="unicode/latin-extended-a/11e/latin-capital-letter-g-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER G WITH BREVE">
+        <div class="charItemSymbol ">&#286;</div>
+        <div class="charItemUPoint">U+11E</div>
+    </a>
+    <a href="unicode/latin-extended-a/11f/latin-small-letter-g-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER G WITH BREVE">
+        <div class="charItemSymbol ">&#287;</div>
+        <div class="charItemUPoint">U+11F</div>
+    </a>
+    <a href="unicode/latin-extended-a/120/latin-capital-letter-g-with-dot-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER G WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#288;</div>
+        <div class="charItemUPoint">U+120</div>
+    </a>
+    <a href="unicode/latin-extended-a/121/latin-small-letter-g-with-dot-above/" class="latin-extended-a charItem" title="LATIN SMALL LETTER G WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#289;</div>
+        <div class="charItemUPoint">U+121</div>
+    </a>
+    <a href="unicode/latin-extended-a/122/latin-capital-letter-g-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER G WITH CEDILLA">
+        <div class="charItemSymbol ">&#290;</div>
+        <div class="charItemUPoint">U+122</div>
+    </a>
+    <a href="unicode/latin-extended-a/123/latin-small-letter-g-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER G WITH CEDILLA">
+        <div class="charItemSymbol ">&#291;</div>
+        <div class="charItemUPoint">U+123</div>
+    </a>
+    <a href="unicode/latin-extended-a/124/latin-capital-letter-h-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER H WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#292;</div>
+        <div class="charItemUPoint">U+124</div>
+    </a>
+    <a href="unicode/latin-extended-a/125/latin-small-letter-h-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER H WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#293;</div>
+        <div class="charItemUPoint">U+125</div>
+    </a>
+    <a href="unicode/latin-extended-a/126/latin-capital-letter-h-with-stroke/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER H WITH STROKE">
+        <div class="charItemSymbol ">&#294;</div>
+        <div class="charItemUPoint">U+126</div>
+    </a>
+    <a href="unicode/latin-extended-a/127/latin-small-letter-h-with-stroke/" class="latin-extended-a charItem" title="LATIN SMALL LETTER H WITH STROKE">
+        <div class="charItemSymbol ">&#295;</div>
+        <div class="charItemUPoint">U+127</div>
+    </a>
+    <a href="unicode/latin-extended-a/128/latin-capital-letter-i-with-tilde/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER I WITH TILDE">
+        <div class="charItemSymbol ">&#296;</div>
+        <div class="charItemUPoint">U+128</div>
+    </a>
+    <a href="unicode/latin-extended-a/129/latin-small-letter-i-with-tilde/" class="latin-extended-a charItem" title="LATIN SMALL LETTER I WITH TILDE">
+        <div class="charItemSymbol ">&#297;</div>
+        <div class="charItemUPoint">U+129</div>
+    </a>
+    <a href="unicode/latin-extended-a/12a/latin-capital-letter-i-with-macron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER I WITH MACRON">
+        <div class="charItemSymbol ">&#298;</div>
+        <div class="charItemUPoint">U+12A</div>
+    </a>
+    <a href="unicode/latin-extended-a/12b/latin-small-letter-i-with-macron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER I WITH MACRON">
+        <div class="charItemSymbol ">&#299;</div>
+        <div class="charItemUPoint">U+12B</div>
+    </a>
+    <a href="unicode/latin-extended-a/12c/latin-capital-letter-i-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER I WITH BREVE">
+        <div class="charItemSymbol ">&#300;</div>
+        <div class="charItemUPoint">U+12C</div>
+    </a>
+    <a href="unicode/latin-extended-a/12d/latin-small-letter-i-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER I WITH BREVE">
+        <div class="charItemSymbol ">&#301;</div>
+        <div class="charItemUPoint">U+12D</div>
+    </a>
+    <a href="unicode/latin-extended-a/12e/latin-capital-letter-i-with-ogonek/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER I WITH OGONEK">
+        <div class="charItemSymbol ">&#302;</div>
+        <div class="charItemUPoint">U+12E</div>
+    </a>
+    <a href="unicode/latin-extended-a/12f/latin-small-letter-i-with-ogonek/" class="latin-extended-a charItem" title="LATIN SMALL LETTER I WITH OGONEK">
+        <div class="charItemSymbol ">&#303;</div>
+        <div class="charItemUPoint">U+12F</div>
+    </a>
+    <a href="unicode/latin-extended-a/130/latin-capital-letter-i-with-dot-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER I WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#304;</div>
+        <div class="charItemUPoint">U+130</div>
+    </a>
+    <a href="unicode/latin-extended-a/131/latin-small-letter-dotless-i/" class="latin-extended-a charItem" title="LATIN SMALL LETTER DOTLESS I">
+        <div class="charItemSymbol ">&#305;</div>
+        <div class="charItemUPoint">U+131</div>
+    </a>
+    <a href="unicode/latin-extended-a/132/latin-capital-ligature-ij/" class="latin-extended-a charItem" title="LATIN CAPITAL LIGATURE IJ">
+        <div class="charItemSymbol ">&#306;</div>
+        <div class="charItemUPoint">U+132</div>
+    </a>
+    <a href="unicode/latin-extended-a/133/latin-small-ligature-ij/" class="latin-extended-a charItem" title="LATIN SMALL LIGATURE IJ">
+        <div class="charItemSymbol ">&#307;</div>
+        <div class="charItemUPoint">U+133</div>
+    </a>
+    <a href="unicode/latin-extended-a/134/latin-capital-letter-j-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER J WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#308;</div>
+        <div class="charItemUPoint">U+134</div>
+    </a>
+    <a href="unicode/latin-extended-a/135/latin-small-letter-j-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER J WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#309;</div>
+        <div class="charItemUPoint">U+135</div>
+    </a>
+    <a href="unicode/latin-extended-a/136/latin-capital-letter-k-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER K WITH CEDILLA">
+        <div class="charItemSymbol ">&#310;</div>
+        <div class="charItemUPoint">U+136</div>
+    </a>
+    <a href="unicode/latin-extended-a/137/latin-small-letter-k-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER K WITH CEDILLA">
+        <div class="charItemSymbol ">&#311;</div>
+        <div class="charItemUPoint">U+137</div>
+    </a>
+    <a href="unicode/latin-extended-a/138/latin-small-letter-kra/" class="latin-extended-a charItem" title="LATIN SMALL LETTER KRA">
+        <div class="charItemSymbol ">&#312;</div>
+        <div class="charItemUPoint">U+138</div>
+    </a>
+    <a href="unicode/latin-extended-a/139/latin-capital-letter-l-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER L WITH ACUTE">
+        <div class="charItemSymbol ">&#313;</div>
+        <div class="charItemUPoint">U+139</div>
+    </a>
+    <a href="unicode/latin-extended-a/13a/latin-small-letter-l-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER L WITH ACUTE">
+        <div class="charItemSymbol ">&#314;</div>
+        <div class="charItemUPoint">U+13A</div>
+    </a>
+    <a href="unicode/latin-extended-a/13b/latin-capital-letter-l-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER L WITH CEDILLA">
+        <div class="charItemSymbol ">&#315;</div>
+        <div class="charItemUPoint">U+13B</div>
+    </a>
+    <a href="unicode/latin-extended-a/13c/latin-small-letter-l-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER L WITH CEDILLA">
+        <div class="charItemSymbol ">&#316;</div>
+        <div class="charItemUPoint">U+13C</div>
+    </a>
+    <a href="unicode/latin-extended-a/13d/latin-capital-letter-l-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER L WITH CARON">
+        <div class="charItemSymbol ">&#317;</div>
+        <div class="charItemUPoint">U+13D</div>
+    </a>
+    <a href="unicode/latin-extended-a/13e/latin-small-letter-l-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER L WITH CARON">
+        <div class="charItemSymbol ">&#318;</div>
+        <div class="charItemUPoint">U+13E</div>
+    </a>
+    <a href="unicode/latin-extended-a/13f/latin-capital-letter-l-with-middle-dot/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER L WITH MIDDLE DOT">
+        <div class="charItemSymbol ">&#319;</div>
+        <div class="charItemUPoint">U+13F</div>
+    </a>
+    <a href="unicode/latin-extended-a/140/latin-small-letter-l-with-middle-dot/" class="latin-extended-a charItem" title="LATIN SMALL LETTER L WITH MIDDLE DOT">
+        <div class="charItemSymbol ">&#320;</div>
+        <div class="charItemUPoint">U+140</div>
+    </a>
+    <a href="unicode/latin-extended-a/141/latin-capital-letter-l-with-stroke/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER L WITH STROKE">
+        <div class="charItemSymbol ">&#321;</div>
+        <div class="charItemUPoint">U+141</div>
+    </a>
+    <a href="unicode/latin-extended-a/142/latin-small-letter-l-with-stroke/" class="latin-extended-a charItem" title="LATIN SMALL LETTER L WITH STROKE">
+        <div class="charItemSymbol ">&#322;</div>
+        <div class="charItemUPoint">U+142</div>
+    </a>
+    <a href="unicode/latin-extended-a/143/latin-capital-letter-n-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER N WITH ACUTE">
+        <div class="charItemSymbol ">&#323;</div>
+        <div class="charItemUPoint">U+143</div>
+    </a>
+    <a href="unicode/latin-extended-a/144/latin-small-letter-n-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER N WITH ACUTE">
+        <div class="charItemSymbol ">&#324;</div>
+        <div class="charItemUPoint">U+144</div>
+    </a>
+    <a href="unicode/latin-extended-a/145/latin-capital-letter-n-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER N WITH CEDILLA">
+        <div class="charItemSymbol ">&#325;</div>
+        <div class="charItemUPoint">U+145</div>
+    </a>
+    <a href="unicode/latin-extended-a/146/latin-small-letter-n-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER N WITH CEDILLA">
+        <div class="charItemSymbol ">&#326;</div>
+        <div class="charItemUPoint">U+146</div>
+    </a>
+    <a href="unicode/latin-extended-a/147/latin-capital-letter-n-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER N WITH CARON">
+        <div class="charItemSymbol ">&#327;</div>
+        <div class="charItemUPoint">U+147</div>
+    </a>
+    <a href="unicode/latin-extended-a/148/latin-small-letter-n-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER N WITH CARON">
+        <div class="charItemSymbol ">&#328;</div>
+        <div class="charItemUPoint">U+148</div>
+    </a>
+    <a href="unicode/latin-extended-a/149/latin-small-letter-n-preceded-by-apostrophe/" class="latin-extended-a charItem" title="LATIN SMALL LETTER N PRECEDED BY APOSTROPHE">
+        <div class="charItemSymbol ">&#329;</div>
+        <div class="charItemUPoint">U+149</div>
+    </a>
+    <a href="unicode/latin-extended-a/14a/latin-capital-letter-eng/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER ENG">
+        <div class="charItemSymbol ">&#330;</div>
+        <div class="charItemUPoint">U+14A</div>
+    </a>
+    <a href="unicode/latin-extended-a/14b/latin-small-letter-eng/" class="latin-extended-a charItem" title="LATIN SMALL LETTER ENG">
+        <div class="charItemSymbol ">&#331;</div>
+        <div class="charItemUPoint">U+14B</div>
+    </a>
+    <a href="unicode/latin-extended-a/14c/latin-capital-letter-o-with-macron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER O WITH MACRON">
+        <div class="charItemSymbol ">&#332;</div>
+        <div class="charItemUPoint">U+14C</div>
+    </a>
+    <a href="unicode/latin-extended-a/14d/latin-small-letter-o-with-macron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER O WITH MACRON">
+        <div class="charItemSymbol ">&#333;</div>
+        <div class="charItemUPoint">U+14D</div>
+    </a>
+    <a href="unicode/latin-extended-a/14e/latin-capital-letter-o-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER O WITH BREVE">
+        <div class="charItemSymbol ">&#334;</div>
+        <div class="charItemUPoint">U+14E</div>
+    </a>
+    <a href="unicode/latin-extended-a/14f/latin-small-letter-o-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER O WITH BREVE">
+        <div class="charItemSymbol ">&#335;</div>
+        <div class="charItemUPoint">U+14F</div>
+    </a>
+    <a href="unicode/latin-extended-a/150/latin-capital-letter-o-with-double-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER O WITH DOUBLE ACUTE">
+        <div class="charItemSymbol ">&#336;</div>
+        <div class="charItemUPoint">U+150</div>
+    </a>
+    <a href="unicode/latin-extended-a/151/latin-small-letter-o-with-double-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER O WITH DOUBLE ACUTE">
+        <div class="charItemSymbol ">&#337;</div>
+        <div class="charItemUPoint">U+151</div>
+    </a>
+    <a href="unicode/latin-extended-a/152/latin-capital-ligature-oe/" class="latin-extended-a charItem" title="LATIN CAPITAL LIGATURE OE">
+        <div class="charItemSymbol ">&#338;</div>
+        <div class="charItemUPoint">U+152</div>
+    </a>
+    <a href="unicode/latin-extended-a/153/latin-small-ligature-oe/" class="latin-extended-a charItem" title="LATIN SMALL LIGATURE OE">
+        <div class="charItemSymbol ">&#339;</div>
+        <div class="charItemUPoint">U+153</div>
+    </a>
+    <a href="unicode/latin-extended-a/154/latin-capital-letter-r-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER R WITH ACUTE">
+        <div class="charItemSymbol ">&#340;</div>
+        <div class="charItemUPoint">U+154</div>
+    </a>
+    <a href="unicode/latin-extended-a/155/latin-small-letter-r-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER R WITH ACUTE">
+        <div class="charItemSymbol ">&#341;</div>
+        <div class="charItemUPoint">U+155</div>
+    </a>
+    <a href="unicode/latin-extended-a/156/latin-capital-letter-r-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER R WITH CEDILLA">
+        <div class="charItemSymbol ">&#342;</div>
+        <div class="charItemUPoint">U+156</div>
+    </a>
+    <a href="unicode/latin-extended-a/157/latin-small-letter-r-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER R WITH CEDILLA">
+        <div class="charItemSymbol ">&#343;</div>
+        <div class="charItemUPoint">U+157</div>
+    </a>
+    <a href="unicode/latin-extended-a/158/latin-capital-letter-r-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER R WITH CARON">
+        <div class="charItemSymbol ">&#344;</div>
+        <div class="charItemUPoint">U+158</div>
+    </a>
+    <a href="unicode/latin-extended-a/159/latin-small-letter-r-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER R WITH CARON">
+        <div class="charItemSymbol ">&#345;</div>
+        <div class="charItemUPoint">U+159</div>
+    </a>
+    <a href="unicode/latin-extended-a/15a/latin-capital-letter-s-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER S WITH ACUTE">
+        <div class="charItemSymbol ">&#346;</div>
+        <div class="charItemUPoint">U+15A</div>
+    </a>
+    <a href="unicode/latin-extended-a/15b/latin-small-letter-s-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER S WITH ACUTE">
+        <div class="charItemSymbol ">&#347;</div>
+        <div class="charItemUPoint">U+15B</div>
+    </a>
+    <a href="unicode/latin-extended-a/15c/latin-capital-letter-s-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER S WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#348;</div>
+        <div class="charItemUPoint">U+15C</div>
+    </a>
+    <a href="unicode/latin-extended-a/15d/latin-small-letter-s-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER S WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#349;</div>
+        <div class="charItemUPoint">U+15D</div>
+    </a>
+    <a href="unicode/latin-extended-a/15e/latin-capital-letter-s-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER S WITH CEDILLA">
+        <div class="charItemSymbol ">&#350;</div>
+        <div class="charItemUPoint">U+15E</div>
+    </a>
+    <a href="unicode/latin-extended-a/15f/latin-small-letter-s-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER S WITH CEDILLA">
+        <div class="charItemSymbol ">&#351;</div>
+        <div class="charItemUPoint">U+15F</div>
+    </a>
+    <a href="unicode/latin-extended-a/160/latin-capital-letter-s-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER S WITH CARON">
+        <div class="charItemSymbol ">&#352;</div>
+        <div class="charItemUPoint">U+160</div>
+    </a>
+    <a href="unicode/latin-extended-a/161/latin-small-letter-s-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER S WITH CARON">
+        <div class="charItemSymbol ">&#353;</div>
+        <div class="charItemUPoint">U+161</div>
+    </a>
+    <a href="unicode/latin-extended-a/162/latin-capital-letter-t-with-cedilla/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER T WITH CEDILLA">
+        <div class="charItemSymbol ">&#354;</div>
+        <div class="charItemUPoint">U+162</div>
+    </a>
+    <a href="unicode/latin-extended-a/163/latin-small-letter-t-with-cedilla/" class="latin-extended-a charItem" title="LATIN SMALL LETTER T WITH CEDILLA">
+        <div class="charItemSymbol ">&#355;</div>
+        <div class="charItemUPoint">U+163</div>
+    </a>
+    <a href="unicode/latin-extended-a/164/latin-capital-letter-t-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER T WITH CARON">
+        <div class="charItemSymbol ">&#356;</div>
+        <div class="charItemUPoint">U+164</div>
+    </a>
+    <a href="unicode/latin-extended-a/165/latin-small-letter-t-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER T WITH CARON">
+        <div class="charItemSymbol ">&#357;</div>
+        <div class="charItemUPoint">U+165</div>
+    </a>
+    <a href="unicode/latin-extended-a/166/latin-capital-letter-t-with-stroke/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER T WITH STROKE">
+        <div class="charItemSymbol ">&#358;</div>
+        <div class="charItemUPoint">U+166</div>
+    </a>
+    <a href="unicode/latin-extended-a/167/latin-small-letter-t-with-stroke/" class="latin-extended-a charItem" title="LATIN SMALL LETTER T WITH STROKE">
+        <div class="charItemSymbol ">&#359;</div>
+        <div class="charItemUPoint">U+167</div>
+    </a>
+    <a href="unicode/latin-extended-a/168/latin-capital-letter-u-with-tilde/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH TILDE">
+        <div class="charItemSymbol ">&#360;</div>
+        <div class="charItemUPoint">U+168</div>
+    </a>
+    <a href="unicode/latin-extended-a/169/latin-small-letter-u-with-tilde/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH TILDE">
+        <div class="charItemSymbol ">&#361;</div>
+        <div class="charItemUPoint">U+169</div>
+    </a>
+    <a href="unicode/latin-extended-a/16a/latin-capital-letter-u-with-macron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH MACRON">
+        <div class="charItemSymbol ">&#362;</div>
+        <div class="charItemUPoint">U+16A</div>
+    </a>
+    <a href="unicode/latin-extended-a/16b/latin-small-letter-u-with-macron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH MACRON">
+        <div class="charItemSymbol ">&#363;</div>
+        <div class="charItemUPoint">U+16B</div>
+    </a>
+    <a href="unicode/latin-extended-a/16c/latin-capital-letter-u-with-breve/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH BREVE">
+        <div class="charItemSymbol ">&#364;</div>
+        <div class="charItemUPoint">U+16C</div>
+    </a>
+    <a href="unicode/latin-extended-a/16d/latin-small-letter-u-with-breve/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH BREVE">
+        <div class="charItemSymbol ">&#365;</div>
+        <div class="charItemUPoint">U+16D</div>
+    </a>
+    <a href="unicode/latin-extended-a/16e/latin-capital-letter-u-with-ring-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH RING ABOVE">
+        <div class="charItemSymbol ">&#366;</div>
+        <div class="charItemUPoint">U+16E</div>
+    </a>
+    <a href="unicode/latin-extended-a/16f/latin-small-letter-u-with-ring-above/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH RING ABOVE">
+        <div class="charItemSymbol ">&#367;</div>
+        <div class="charItemUPoint">U+16F</div>
+    </a>
+    <a href="unicode/latin-extended-a/170/latin-capital-letter-u-with-double-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH DOUBLE ACUTE">
+        <div class="charItemSymbol ">&#368;</div>
+        <div class="charItemUPoint">U+170</div>
+    </a>
+    <a href="unicode/latin-extended-a/171/latin-small-letter-u-with-double-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH DOUBLE ACUTE">
+        <div class="charItemSymbol ">&#369;</div>
+        <div class="charItemUPoint">U+171</div>
+    </a>
+    <a href="unicode/latin-extended-a/172/latin-capital-letter-u-with-ogonek/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER U WITH OGONEK">
+        <div class="charItemSymbol ">&#370;</div>
+        <div class="charItemUPoint">U+172</div>
+    </a>
+    <a href="unicode/latin-extended-a/173/latin-small-letter-u-with-ogonek/" class="latin-extended-a charItem" title="LATIN SMALL LETTER U WITH OGONEK">
+        <div class="charItemSymbol ">&#371;</div>
+        <div class="charItemUPoint">U+173</div>
+    </a>
+    <a href="unicode/latin-extended-a/174/latin-capital-letter-w-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER W WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#372;</div>
+        <div class="charItemUPoint">U+174</div>
+    </a>
+    <a href="unicode/latin-extended-a/175/latin-small-letter-w-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER W WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#373;</div>
+        <div class="charItemUPoint">U+175</div>
+    </a>
+    <a href="unicode/latin-extended-a/176/latin-capital-letter-y-with-circumflex/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER Y WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#374;</div>
+        <div class="charItemUPoint">U+176</div>
+    </a>
+    <a href="unicode/latin-extended-a/177/latin-small-letter-y-with-circumflex/" class="latin-extended-a charItem" title="LATIN SMALL LETTER Y WITH CIRCUMFLEX">
+        <div class="charItemSymbol ">&#375;</div>
+        <div class="charItemUPoint">U+177</div>
+    </a>
+    <a href="unicode/latin-extended-a/178/latin-capital-letter-y-with-diaeresis/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER Y WITH DIAERESIS">
+        <div class="charItemSymbol ">&#376;</div>
+        <div class="charItemUPoint">U+178</div>
+    </a>
+    <a href="unicode/latin-extended-a/179/latin-capital-letter-z-with-acute/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER Z WITH ACUTE">
+        <div class="charItemSymbol ">&#377;</div>
+        <div class="charItemUPoint">U+179</div>
+    </a>
+    <a href="unicode/latin-extended-a/17a/latin-small-letter-z-with-acute/" class="latin-extended-a charItem" title="LATIN SMALL LETTER Z WITH ACUTE">
+        <div class="charItemSymbol ">&#378;</div>
+        <div class="charItemUPoint">U+17A</div>
+    </a>
+    <a href="unicode/latin-extended-a/17b/latin-capital-letter-z-with-dot-above/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER Z WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#379;</div>
+        <div class="charItemUPoint">U+17B</div>
+    </a>
+    <a href="unicode/latin-extended-a/17c/latin-small-letter-z-with-dot-above/" class="latin-extended-a charItem" title="LATIN SMALL LETTER Z WITH DOT ABOVE">
+        <div class="charItemSymbol ">&#380;</div>
+        <div class="charItemUPoint">U+17C</div>
+    </a>
+    <a href="unicode/latin-extended-a/17d/latin-capital-letter-z-with-caron/" class="latin-extended-a charItem" title="LATIN CAPITAL LETTER Z WITH CARON">
+        <div class="charItemSymbol ">&#381;</div>
+        <div class="charItemUPoint">U+17D</div>
+    </a>
+    <a href="unicode/latin-extended-a/17e/latin-small-letter-z-with-caron/" class="latin-extended-a charItem" title="LATIN SMALL LETTER Z WITH CARON">
+        <div class="charItemSymbol ">&#382;</div>
+        <div class="charItemUPoint">U+17E</div>
+    </a>
+    <a href="unicode/latin-extended-a/17f/latin-small-letter-long-s/" class="latin-extended-a charItem" title="LATIN SMALL LETTER LONG S">
+        <div class="charItemSymbol ">&#383;</div>
+        <div class="charItemUPoint">U+17F</div>
+    </a>
+    <a href="unicode/latin-extended-b/180/latin-small-letter-b-with-stroke/" class="latin-extended-b charItem" title="LATIN SMALL LETTER B WITH STROKE">
+        <div class="charItemSymbol ">&#384;</div>
+        <div class="charItemUPoint">U+180</div>
+    </a>
+    <a href="unicode/latin-extended-b/181/latin-capital-letter-b-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER B WITH HOOK">
+        <div class="charItemSymbol ">&#385;</div>
+        <div class="charItemUPoint">U+181</div>
+    </a>
+    <a href="unicode/latin-extended-b/182/latin-capital-letter-b-with-topbar/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER B WITH TOPBAR">
+        <div class="charItemSymbol ">&#386;</div>
+        <div class="charItemUPoint">U+182</div>
+    </a>
+    <a href="unicode/latin-extended-b/183/latin-small-letter-b-with-topbar/" class="latin-extended-b charItem" title="LATIN SMALL LETTER B WITH TOPBAR">
+        <div class="charItemSymbol ">&#387;</div>
+        <div class="charItemUPoint">U+183</div>
+    </a>
+    <a href="unicode/latin-extended-b/184/latin-capital-letter-tone-six/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER TONE SIX">
+        <div class="charItemSymbol ">&#388;</div>
+        <div class="charItemUPoint">U+184</div>
+    </a>
+    <a href="unicode/latin-extended-b/185/latin-small-letter-tone-six/" class="latin-extended-b charItem" title="LATIN SMALL LETTER TONE SIX">
+        <div class="charItemSymbol ">&#389;</div>
+        <div class="charItemUPoint">U+185</div>
+    </a>
+    <a href="unicode/latin-extended-b/186/latin-capital-letter-open-o/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER OPEN O">
+        <div class="charItemSymbol ">&#390;</div>
+        <div class="charItemUPoint">U+186</div>
+    </a>
+    <a href="unicode/latin-extended-b/187/latin-capital-letter-c-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER C WITH HOOK">
+        <div class="charItemSymbol ">&#391;</div>
+        <div class="charItemUPoint">U+187</div>
+    </a>
+    <a href="unicode/latin-extended-b/188/latin-small-letter-c-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER C WITH HOOK">
+        <div class="charItemSymbol ">&#392;</div>
+        <div class="charItemUPoint">U+188</div>
+    </a>
+    <a href="unicode/latin-extended-b/189/latin-capital-letter-african-d/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER AFRICAN D">
+        <div class="charItemSymbol ">&#393;</div>
+        <div class="charItemUPoint">U+189</div>
+    </a>
+    <a href="unicode/latin-extended-b/18a/latin-capital-letter-d-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER D WITH HOOK">
+        <div class="charItemSymbol ">&#394;</div>
+        <div class="charItemUPoint">U+18A</div>
+    </a>
+    <a href="unicode/latin-extended-b/18b/latin-capital-letter-d-with-topbar/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER D WITH TOPBAR">
+        <div class="charItemSymbol ">&#395;</div>
+        <div class="charItemUPoint">U+18B</div>
+    </a>
+    <a href="unicode/latin-extended-b/18c/latin-small-letter-d-with-topbar/" class="latin-extended-b charItem" title="LATIN SMALL LETTER D WITH TOPBAR">
+        <div class="charItemSymbol ">&#396;</div>
+        <div class="charItemUPoint">U+18C</div>
+    </a>
+    <a href="unicode/latin-extended-b/18d/latin-small-letter-turned-delta/" class="latin-extended-b charItem" title="LATIN SMALL LETTER TURNED DELTA">
+        <div class="charItemSymbol ">&#397;</div>
+        <div class="charItemUPoint">U+18D</div>
+    </a>
+    <a href="unicode/latin-extended-b/18e/latin-capital-letter-reversed-e/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER REVERSED E">
+        <div class="charItemSymbol ">&#398;</div>
+        <div class="charItemUPoint">U+18E</div>
+    </a>
+    <a href="unicode/latin-extended-b/18f/latin-capital-letter-schwa/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER SCHWA">
+        <div class="charItemSymbol ">&#399;</div>
+        <div class="charItemUPoint">U+18F</div>
+    </a>
+    <a href="unicode/latin-extended-b/190/latin-capital-letter-open-e/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER OPEN E">
+        <div class="charItemSymbol ">&#400;</div>
+        <div class="charItemUPoint">U+190</div>
+    </a>
+    <a href="unicode/latin-extended-b/191/latin-capital-letter-f-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER F WITH HOOK">
+        <div class="charItemSymbol ">&#401;</div>
+        <div class="charItemUPoint">U+191</div>
+    </a>
+    <a href="unicode/latin-extended-b/192/latin-small-letter-f-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER F WITH HOOK">
+        <div class="charItemSymbol ">&#402;</div>
+        <div class="charItemUPoint">U+192</div>
+    </a>
+    <a href="unicode/latin-extended-b/193/latin-capital-letter-g-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER G WITH HOOK">
+        <div class="charItemSymbol ">&#403;</div>
+        <div class="charItemUPoint">U+193</div>
+    </a>
+    <a href="unicode/latin-extended-b/194/latin-capital-letter-gamma/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER GAMMA">
+        <div class="charItemSymbol ">&#404;</div>
+        <div class="charItemUPoint">U+194</div>
+    </a>
+    <a href="unicode/latin-extended-b/195/latin-small-letter-hv/" class="latin-extended-b charItem" title="LATIN SMALL LETTER HV">
+        <div class="charItemSymbol ">&#405;</div>
+        <div class="charItemUPoint">U+195</div>
+    </a>
+    <a href="unicode/latin-extended-b/196/latin-capital-letter-iota/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER IOTA">
+        <div class="charItemSymbol ">&#406;</div>
+        <div class="charItemUPoint">U+196</div>
+    </a>
+    <a href="unicode/latin-extended-b/197/latin-capital-letter-i-with-stroke/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER I WITH STROKE">
+        <div class="charItemSymbol ">&#407;</div>
+        <div class="charItemUPoint">U+197</div>
+    </a>
+    <a href="unicode/latin-extended-b/198/latin-capital-letter-k-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER K WITH HOOK">
+        <div class="charItemSymbol ">&#408;</div>
+        <div class="charItemUPoint">U+198</div>
+    </a>
+    <a href="unicode/latin-extended-b/199/latin-small-letter-k-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER K WITH HOOK">
+        <div class="charItemSymbol ">&#409;</div>
+        <div class="charItemUPoint">U+199</div>
+    </a>
+    <a href="unicode/latin-extended-b/19a/latin-small-letter-l-with-bar/" class="latin-extended-b charItem" title="LATIN SMALL LETTER L WITH BAR">
+        <div class="charItemSymbol ">&#410;</div>
+        <div class="charItemUPoint">U+19A</div>
+    </a>
+    <a href="unicode/latin-extended-b/19b/latin-small-letter-lambda-with-stroke/" class="latin-extended-b charItem" title="LATIN SMALL LETTER LAMBDA WITH STROKE">
+        <div class="charItemSymbol ">&#411;</div>
+        <div class="charItemUPoint">U+19B</div>
+    </a>
+    <a href="unicode/latin-extended-b/19c/latin-capital-letter-turned-m/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER TURNED M">
+        <div class="charItemSymbol ">&#412;</div>
+        <div class="charItemUPoint">U+19C</div>
+    </a>
+    <a href="unicode/latin-extended-b/19d/latin-capital-letter-n-with-left-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER N WITH LEFT HOOK">
+        <div class="charItemSymbol ">&#413;</div>
+        <div class="charItemUPoint">U+19D</div>
+    </a>
+    <a href="unicode/latin-extended-b/19e/latin-small-letter-n-with-long-right-leg/" class="latin-extended-b charItem" title="LATIN SMALL LETTER N WITH LONG RIGHT LEG">
+        <div class="charItemSymbol ">&#414;</div>
+        <div class="charItemUPoint">U+19E</div>
+    </a>
+    <a href="unicode/latin-extended-b/19f/latin-capital-letter-o-with-middle-tilde/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER O WITH MIDDLE TILDE">
+        <div class="charItemSymbol ">&#415;</div>
+        <div class="charItemUPoint">U+19F</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a0/latin-capital-letter-o-with-horn/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER O WITH HORN">
+        <div class="charItemSymbol ">&#416;</div>
+        <div class="charItemUPoint">U+1A0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a1/latin-small-letter-o-with-horn/" class="latin-extended-b charItem" title="LATIN SMALL LETTER O WITH HORN">
+        <div class="charItemSymbol ">&#417;</div>
+        <div class="charItemUPoint">U+1A1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a2/latin-capital-letter-oi/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER OI">
+        <div class="charItemSymbol ">&#418;</div>
+        <div class="charItemUPoint">U+1A2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a3/latin-small-letter-oi/" class="latin-extended-b charItem" title="LATIN SMALL LETTER OI">
+        <div class="charItemSymbol ">&#419;</div>
+        <div class="charItemUPoint">U+1A3</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a4/latin-capital-letter-p-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER P WITH HOOK">
+        <div class="charItemSymbol ">&#420;</div>
+        <div class="charItemUPoint">U+1A4</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a5/latin-small-letter-p-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER P WITH HOOK">
+        <div class="charItemSymbol ">&#421;</div>
+        <div class="charItemUPoint">U+1A5</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a6/latin-letter-yr/" class="latin-extended-b charItem" title="LATIN LETTER YR">
+        <div class="charItemSymbol ">&#422;</div>
+        <div class="charItemUPoint">U+1A6</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a7/latin-capital-letter-tone-two/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER TONE TWO">
+        <div class="charItemSymbol ">&#423;</div>
+        <div class="charItemUPoint">U+1A7</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a8/latin-small-letter-tone-two/" class="latin-extended-b charItem" title="LATIN SMALL LETTER TONE TWO">
+        <div class="charItemSymbol ">&#424;</div>
+        <div class="charItemUPoint">U+1A8</div>
+    </a>
+    <a href="unicode/latin-extended-b/1a9/latin-capital-letter-esh/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER ESH">
+        <div class="charItemSymbol ">&#425;</div>
+        <div class="charItemUPoint">U+1A9</div>
+    </a>
+    <a href="unicode/latin-extended-b/1aa/latin-letter-reversed-esh-loop/" class="latin-extended-b charItem" title="LATIN LETTER REVERSED ESH LOOP">
+        <div class="charItemSymbol ">&#426;</div>
+        <div class="charItemUPoint">U+1AA</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ab/latin-small-letter-t-with-palatal-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER T WITH PALATAL HOOK">
+        <div class="charItemSymbol ">&#427;</div>
+        <div class="charItemUPoint">U+1AB</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ac/latin-capital-letter-t-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER T WITH HOOK">
+        <div class="charItemSymbol ">&#428;</div>
+        <div class="charItemUPoint">U+1AC</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ad/latin-small-letter-t-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER T WITH HOOK">
+        <div class="charItemSymbol ">&#429;</div>
+        <div class="charItemUPoint">U+1AD</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ae/latin-capital-letter-t-with-retroflex-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER T WITH RETROFLEX HOOK">
+        <div class="charItemSymbol ">&#430;</div>
+        <div class="charItemUPoint">U+1AE</div>
+    </a>
+    <a href="unicode/latin-extended-b/1af/latin-capital-letter-u-with-horn/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH HORN">
+        <div class="charItemSymbol ">&#431;</div>
+        <div class="charItemUPoint">U+1AF</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b0/latin-small-letter-u-with-horn/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH HORN">
+        <div class="charItemSymbol ">&#432;</div>
+        <div class="charItemUPoint">U+1B0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b1/latin-capital-letter-upsilon/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER UPSILON">
+        <div class="charItemSymbol ">&#433;</div>
+        <div class="charItemUPoint">U+1B1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b2/latin-capital-letter-v-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER V WITH HOOK">
+        <div class="charItemSymbol ">&#434;</div>
+        <div class="charItemUPoint">U+1B2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b3/latin-capital-letter-y-with-hook/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER Y WITH HOOK">
+        <div class="charItemSymbol ">&#435;</div>
+        <div class="charItemUPoint">U+1B3</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b4/latin-small-letter-y-with-hook/" class="latin-extended-b charItem" title="LATIN SMALL LETTER Y WITH HOOK">
+        <div class="charItemSymbol ">&#436;</div>
+        <div class="charItemUPoint">U+1B4</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b5/latin-capital-letter-z-with-stroke/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER Z WITH STROKE">
+        <div class="charItemSymbol ">&#437;</div>
+        <div class="charItemUPoint">U+1B5</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b6/latin-small-letter-z-with-stroke/" class="latin-extended-b charItem" title="LATIN SMALL LETTER Z WITH STROKE">
+        <div class="charItemSymbol ">&#438;</div>
+        <div class="charItemUPoint">U+1B6</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b7/latin-capital-letter-ezh/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER EZH">
+        <div class="charItemSymbol ">&#439;</div>
+        <div class="charItemUPoint">U+1B7</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b8/latin-capital-letter-ezh-reversed/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER EZH REVERSED">
+        <div class="charItemSymbol ">&#440;</div>
+        <div class="charItemUPoint">U+1B8</div>
+    </a>
+    <a href="unicode/latin-extended-b/1b9/latin-small-letter-ezh-reversed/" class="latin-extended-b charItem" title="LATIN SMALL LETTER EZH REVERSED">
+        <div class="charItemSymbol ">&#441;</div>
+        <div class="charItemUPoint">U+1B9</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ba/latin-small-letter-ezh-with-tail/" class="latin-extended-b charItem" title="LATIN SMALL LETTER EZH WITH TAIL">
+        <div class="charItemSymbol ">&#442;</div>
+        <div class="charItemUPoint">U+1BA</div>
+    </a>
+    <a href="unicode/latin-extended-b/1bb/latin-letter-two-with-stroke/" class="latin-extended-b charItem" title="LATIN LETTER TWO WITH STROKE">
+        <div class="charItemSymbol ">&#443;</div>
+        <div class="charItemUPoint">U+1BB</div>
+    </a>
+    <a href="unicode/latin-extended-b/1bc/latin-capital-letter-tone-five/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER TONE FIVE">
+        <div class="charItemSymbol ">&#444;</div>
+        <div class="charItemUPoint">U+1BC</div>
+    </a>
+    <a href="unicode/latin-extended-b/1bd/latin-small-letter-tone-five/" class="latin-extended-b charItem" title="LATIN SMALL LETTER TONE FIVE">
+        <div class="charItemSymbol ">&#445;</div>
+        <div class="charItemUPoint">U+1BD</div>
+    </a>
+    <a href="unicode/latin-extended-b/1be/latin-letter-inverted-glottal-stop-with-stroke/" class="latin-extended-b charItem" title="LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE">
+        <div class="charItemSymbol ">&#446;</div>
+        <div class="charItemUPoint">U+1BE</div>
+    </a>
+    <a href="unicode/latin-extended-b/1bf/latin-letter-wynn/" class="latin-extended-b charItem" title="LATIN LETTER WYNN">
+        <div class="charItemSymbol ">&#447;</div>
+        <div class="charItemUPoint">U+1BF</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c0/latin-letter-dental-click/" class="latin-extended-b charItem" title="LATIN LETTER DENTAL CLICK">
+        <div class="charItemSymbol ">&#448;</div>
+        <div class="charItemUPoint">U+1C0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c1/latin-letter-lateral-click/" class="latin-extended-b charItem" title="LATIN LETTER LATERAL CLICK">
+        <div class="charItemSymbol ">&#449;</div>
+        <div class="charItemUPoint">U+1C1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c2/latin-letter-alveolar-click/" class="latin-extended-b charItem" title="LATIN LETTER ALVEOLAR CLICK">
+        <div class="charItemSymbol ">&#450;</div>
+        <div class="charItemUPoint">U+1C2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c3/latin-letter-retroflex-click/" class="latin-extended-b charItem" title="LATIN LETTER RETROFLEX CLICK">
+        <div class="charItemSymbol ">&#451;</div>
+        <div class="charItemUPoint">U+1C3</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c4/latin-capital-letter-dz-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER DZ WITH CARON">
+        <div class="charItemSymbol ">&#452;</div>
+        <div class="charItemUPoint">U+1C4</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c5/latin-capital-letter-d-with-small-letter-z-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON">
+        <div class="charItemSymbol ">&#453;</div>
+        <div class="charItemUPoint">U+1C5</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c6/latin-small-letter-dz-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER DZ WITH CARON">
+        <div class="charItemSymbol ">&#454;</div>
+        <div class="charItemUPoint">U+1C6</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c7/latin-capital-letter-lj/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER LJ">
+        <div class="charItemSymbol ">&#455;</div>
+        <div class="charItemUPoint">U+1C7</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c8/latin-capital-letter-l-with-small-letter-j/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER L WITH SMALL LETTER J">
+        <div class="charItemSymbol ">&#456;</div>
+        <div class="charItemUPoint">U+1C8</div>
+    </a>
+    <a href="unicode/latin-extended-b/1c9/latin-small-letter-lj/" class="latin-extended-b charItem" title="LATIN SMALL LETTER LJ">
+        <div class="charItemSymbol ">&#457;</div>
+        <div class="charItemUPoint">U+1C9</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ca/latin-capital-letter-nj/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER NJ">
+        <div class="charItemSymbol ">&#458;</div>
+        <div class="charItemUPoint">U+1CA</div>
+    </a>
+    <a href="unicode/latin-extended-b/1cb/latin-capital-letter-n-with-small-letter-j/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER N WITH SMALL LETTER J">
+        <div class="charItemSymbol ">&#459;</div>
+        <div class="charItemUPoint">U+1CB</div>
+    </a>
+    <a href="unicode/latin-extended-b/1cc/latin-small-letter-nj/" class="latin-extended-b charItem" title="LATIN SMALL LETTER NJ">
+        <div class="charItemSymbol ">&#460;</div>
+        <div class="charItemUPoint">U+1CC</div>
+    </a>
+    <a href="unicode/latin-extended-b/1cd/latin-capital-letter-a-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER A WITH CARON">
+        <div class="charItemSymbol ">&#461;</div>
+        <div class="charItemUPoint">U+1CD</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ce/latin-small-letter-a-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER A WITH CARON">
+        <div class="charItemSymbol ">&#462;</div>
+        <div class="charItemUPoint">U+1CE</div>
+    </a>
+    <a href="unicode/latin-extended-b/1cf/latin-capital-letter-i-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER I WITH CARON">
+        <div class="charItemSymbol ">&#463;</div>
+        <div class="charItemUPoint">U+1CF</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d0/latin-small-letter-i-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER I WITH CARON">
+        <div class="charItemSymbol ">&#464;</div>
+        <div class="charItemUPoint">U+1D0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d1/latin-capital-letter-o-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER O WITH CARON">
+        <div class="charItemSymbol ">&#465;</div>
+        <div class="charItemUPoint">U+1D1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d2/latin-small-letter-o-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER O WITH CARON">
+        <div class="charItemSymbol ">&#466;</div>
+        <div class="charItemUPoint">U+1D2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d3/latin-capital-letter-u-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH CARON">
+        <div class="charItemSymbol ">&#467;</div>
+        <div class="charItemUPoint">U+1D3</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d4/latin-small-letter-u-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH CARON">
+        <div class="charItemSymbol ">&#468;</div>
+        <div class="charItemUPoint">U+1D4</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d5/latin-capital-letter-u-with-diaeresis-and-macron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON">
+        <div class="charItemSymbol ">&#469;</div>
+        <div class="charItemUPoint">U+1D5</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d6/latin-small-letter-u-with-diaeresis-and-macron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH DIAERESIS AND MACRON">
+        <div class="charItemSymbol ">&#470;</div>
+        <div class="charItemUPoint">U+1D6</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d7/latin-capital-letter-u-with-diaeresis-and-acute/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE">
+        <div class="charItemSymbol ">&#471;</div>
+        <div class="charItemUPoint">U+1D7</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d8/latin-small-letter-u-with-diaeresis-and-acute/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE">
+        <div class="charItemSymbol ">&#472;</div>
+        <div class="charItemUPoint">U+1D8</div>
+    </a>
+    <a href="unicode/latin-extended-b/1d9/latin-capital-letter-u-with-diaeresis-and-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON">
+        <div class="charItemSymbol ">&#473;</div>
+        <div class="charItemUPoint">U+1D9</div>
+    </a>
+    <a href="unicode/latin-extended-b/1da/latin-small-letter-u-with-diaeresis-and-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH DIAERESIS AND CARON">
+        <div class="charItemSymbol ">&#474;</div>
+        <div class="charItemUPoint">U+1DA</div>
+    </a>
+    <a href="unicode/latin-extended-b/1db/latin-capital-letter-u-with-diaeresis-and-grave/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE">
+        <div class="charItemSymbol ">&#475;</div>
+        <div class="charItemUPoint">U+1DB</div>
+    </a>
+    <a href="unicode/latin-extended-b/1dc/latin-small-letter-u-with-diaeresis-and-grave/" class="latin-extended-b charItem" title="LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE">
+        <div class="charItemSymbol ">&#476;</div>
+        <div class="charItemUPoint">U+1DC</div>
+    </a>
+    <a href="unicode/latin-extended-b/1dd/latin-small-letter-turned-e/" class="latin-extended-b charItem" title="LATIN SMALL LETTER TURNED E">
+        <div class="charItemSymbol ">&#477;</div>
+        <div class="charItemUPoint">U+1DD</div>
+    </a>
+    <a href="unicode/latin-extended-b/1de/latin-capital-letter-a-with-diaeresis-and-macron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON">
+        <div class="charItemSymbol ">&#478;</div>
+        <div class="charItemUPoint">U+1DE</div>
+    </a>
+    <a href="unicode/latin-extended-b/1df/latin-small-letter-a-with-diaeresis-and-macron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER A WITH DIAERESIS AND MACRON">
+        <div class="charItemSymbol ">&#479;</div>
+        <div class="charItemUPoint">U+1DF</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e0/latin-capital-letter-a-with-dot-above-and-macron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON">
+        <div class="charItemSymbol ">&#480;</div>
+        <div class="charItemUPoint">U+1E0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e1/latin-small-letter-a-with-dot-above-and-macron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON">
+        <div class="charItemSymbol ">&#481;</div>
+        <div class="charItemUPoint">U+1E1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e2/latin-capital-letter-ae-with-macron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER AE WITH MACRON">
+        <div class="charItemSymbol ">&#482;</div>
+        <div class="charItemUPoint">U+1E2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e3/latin-small-letter-ae-with-macron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER AE WITH MACRON">
+        <div class="charItemSymbol ">&#483;</div>
+        <div class="charItemUPoint">U+1E3</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e4/latin-capital-letter-g-with-stroke/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER G WITH STROKE">
+        <div class="charItemSymbol ">&#484;</div>
+        <div class="charItemUPoint">U+1E4</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e5/latin-small-letter-g-with-stroke/" class="latin-extended-b charItem" title="LATIN SMALL LETTER G WITH STROKE">
+        <div class="charItemSymbol ">&#485;</div>
+        <div class="charItemUPoint">U+1E5</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e6/latin-capital-letter-g-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER G WITH CARON">
+        <div class="charItemSymbol ">&#486;</div>
+        <div class="charItemUPoint">U+1E6</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e7/latin-small-letter-g-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER G WITH CARON">
+        <div class="charItemSymbol ">&#487;</div>
+        <div class="charItemUPoint">U+1E7</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e8/latin-capital-letter-k-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER K WITH CARON">
+        <div class="charItemSymbol ">&#488;</div>
+        <div class="charItemUPoint">U+1E8</div>
+    </a>
+    <a href="unicode/latin-extended-b/1e9/latin-small-letter-k-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER K WITH CARON">
+        <div class="charItemSymbol ">&#489;</div>
+        <div class="charItemUPoint">U+1E9</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ea/latin-capital-letter-o-with-ogonek/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER O WITH OGONEK">
+        <div class="charItemSymbol ">&#490;</div>
+        <div class="charItemUPoint">U+1EA</div>
+    </a>
+    <a href="unicode/latin-extended-b/1eb/latin-small-letter-o-with-ogonek/" class="latin-extended-b charItem" title="LATIN SMALL LETTER O WITH OGONEK">
+        <div class="charItemSymbol ">&#491;</div>
+        <div class="charItemUPoint">U+1EB</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ec/latin-capital-letter-o-with-ogonek-and-macron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER O WITH OGONEK AND MACRON">
+        <div class="charItemSymbol ">&#492;</div>
+        <div class="charItemUPoint">U+1EC</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ed/latin-small-letter-o-with-ogonek-and-macron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER O WITH OGONEK AND MACRON">
+        <div class="charItemSymbol ">&#493;</div>
+        <div class="charItemUPoint">U+1ED</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ee/latin-capital-letter-ezh-with-caron/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER EZH WITH CARON">
+        <div class="charItemSymbol ">&#494;</div>
+        <div class="charItemUPoint">U+1EE</div>
+    </a>
+    <a href="unicode/latin-extended-b/1ef/latin-small-letter-ezh-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER EZH WITH CARON">
+        <div class="charItemSymbol ">&#495;</div>
+        <div class="charItemUPoint">U+1EF</div>
+    </a>
+    <a href="unicode/latin-extended-b/1f0/latin-small-letter-j-with-caron/" class="latin-extended-b charItem" title="LATIN SMALL LETTER J WITH CARON">
+        <div class="charItemSymbol ">&#496;</div>
+        <div class="charItemUPoint">U+1F0</div>
+    </a>
+    <a href="unicode/latin-extended-b/1f1/latin-capital-letter-dz/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER DZ">
+        <div class="charItemSymbol ">&#497;</div>
+        <div class="charItemUPoint">U+1F1</div>
+    </a>
+    <a href="unicode/latin-extended-b/1f2/latin-capital-letter-d-with-small-letter-z/" class="latin-extended-b charItem" title="LATIN CAPITAL LETTER D WITH SMALL LETTER Z">
+        <div class="charItemSymbol ">&#498;</div>
+        <div class="charItemUPoint">U+1F2</div>
+    </a>
+    <a href="unicode/latin-extended-b/1f3/latin-small-letter-dz/" class="latin-extended-b charItem" title="LATIN SMALL LETTER DZ">
+        <div class="charItemSymbol ">&#499;</div>
+        <div class="charItemUPoint">U+1F3</div>
+    </a>
+        </div>
+        <div class="clear"></div>
+        <div class="linkBtns">
+                            <a class="linkBtn" href="./?p=1">Next &raquo;</a>
+                        
+        </div>
+    </div>
+    <footer>
+        <!-- Responsive Display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1304521668449080"
+     data-ad-slot="4025818413"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<br/>
+<br/>
+<div class="section groupsBlock">
+    <h2>Unicode groups</h2>
+    <div class="groupsBlockGrid">
+            <a class="groupsBlockItem " href="groups/aegean-numbers/">Aegean Numbers</a>
+            <a class="groupsBlockItem " href="groups/alchemical-symbols/">Alchemical Symbols</a>
+            <a class="groupsBlockItem " href="groups/alphabetic-presentation-forms/">Alphabetic Presentation Forms</a>
+            <a class="groupsBlockItem " href="groups/ancient-greek-musical-notation/">Ancient Greek Musical Notation</a>
+            <a class="groupsBlockItem " href="groups/ancient-greek-numbers/">Ancient Greek Numbers</a>
+            <a class="groupsBlockItem " href="groups/ancient-symbols/">Ancient Symbols</a>
+            <a class="groupsBlockItem " href="groups/arabic/">Arabic</a>
+            <a class="groupsBlockItem " href="groups/arabic-presentation-forms-a/">Arabic Presentation Forms-A</a>
+            <a class="groupsBlockItem " href="groups/arabic-presentation-forms-b/">Arabic Presentation Forms-B</a>
+            <a class="groupsBlockItem " href="groups/arabic-supplement/">Arabic Supplement</a>
+            <a class="groupsBlockItem " href="groups/armenian/">Armenian</a>
+            <a class="groupsBlockItem " href="groups/arrows/">Arrows</a>
+            <a class="groupsBlockItem " href="groups/avestan/">Avestan</a>
+            <a class="groupsBlockItem " href="groups/balinese/">Balinese</a>
+            <a class="groupsBlockItem " href="groups/bamum/">Bamum</a>
+            <a class="groupsBlockItem " href="groups/bamum-supplement/">Bamum Supplement</a>
+            <a class="groupsBlockItem " href="groups/basic-latin/">Basic Latin</a>
+            <a class="groupsBlockItem " href="groups/batak/">Batak</a>
+            <a class="groupsBlockItem " href="groups/bengali/">Bengali</a>
+            <a class="groupsBlockItem " href="groups/block-elements/">Block Elements</a>
+            <a class="groupsBlockItem " href="groups/bopomofo/">Bopomofo</a>
+            <a class="groupsBlockItem " href="groups/bopomofo-extended/">Bopomofo Extended</a>
+            <a class="groupsBlockItem " href="groups/box-drawing/">Box Drawing</a>
+            <a class="groupsBlockItem " href="groups/brahmi/">Brahmi</a>
+            <a class="groupsBlockItem " href="groups/braille-patterns/">Braille Patterns</a>
+            <a class="groupsBlockItem " href="groups/buginese/">Buginese</a>
+            <a class="groupsBlockItem " href="groups/buhid/">Buhid</a>
+            <a class="groupsBlockItem " href="groups/byzantine-musical-symbols/">Byzantine Musical Symbols</a>
+            <a class="groupsBlockItem " href="groups/carian/">Carian</a>
+            <a class="groupsBlockItem " href="groups/cham/">Cham</a>
+            <a class="groupsBlockItem " href="groups/cherokee/">Cherokee</a>
+            <a class="groupsBlockItem " href="groups/cjk-compatibility/">CJK Compatibility</a>
+            <a class="groupsBlockItem " href="groups/cjk-compatibility-forms/">CJK Compatibility Forms</a>
+            <a class="groupsBlockItem " href="groups/cjk-compatibility-ideographs/">CJK Compatibility Ideographs</a>
+            <a class="groupsBlockItem " href="groups/cjk-compatibility-ideographs-supplement/">CJK Compatibility Ideographs Supplement</a>
+            <a class="groupsBlockItem " href="groups/cjk-radicals-supplement/">CJK Radicals Supplement</a>
+            <a class="groupsBlockItem " href="groups/cjk-strokes/">CJK Strokes</a>
+            <a class="groupsBlockItem " href="groups/cjk-symbols-and-punctuation/">CJK Symbols and Punctuation</a>
+            <a class="groupsBlockItem " href="groups/cjk-unified-ideographs/">CJK Unified Ideographs</a>
+            <a class="groupsBlockItem " href="groups/cjk-unified-ideographs-extension-a/">CJK Unified Ideographs Extension A</a>
+            <a class="groupsBlockItem " href="groups/cjk-unified-ideographs-extension-b/">CJK Unified Ideographs Extension B</a>
+            <a class="groupsBlockItem " href="groups/cjk-unified-ideographs-extension-c/">CJK Unified Ideographs Extension C</a>
+            <a class="groupsBlockItem " href="groups/cjk-unified-ideographs-extension-d/">CJK Unified Ideographs Extension D</a>
+            <a class="groupsBlockItem " href="groups/combining-diacritical-marks/">Combining Diacritical Marks</a>
+            <a class="groupsBlockItem " href="groups/combining-diacritical-marks-for-symbols/">Combining Diacritical Marks for Symbols</a>
+            <a class="groupsBlockItem " href="groups/combining-diacritical-marks-supplement/">Combining Diacritical Marks Supplement</a>
+            <a class="groupsBlockItem " href="groups/combining-half-marks/">Combining Half Marks</a>
+            <a class="groupsBlockItem " href="groups/common-indic-number-forms/">Common Indic Number Forms</a>
+            <a class="groupsBlockItem " href="groups/control-pictures/">Control Pictures</a>
+            <a class="groupsBlockItem " href="groups/coptic/">Coptic</a>
+            <a class="groupsBlockItem " href="groups/counting-rod-numerals/">Counting Rod Numerals</a>
+            <a class="groupsBlockItem " href="groups/cuneiform/">Cuneiform</a>
+            <a class="groupsBlockItem " href="groups/cuneiform-numbers-and-punctuation/">Cuneiform Numbers and Punctuation</a>
+            <a class="groupsBlockItem " href="groups/currency-symbols/">Currency Symbols</a>
+            <a class="groupsBlockItem " href="groups/cypriot-syllabary/">Cypriot Syllabary</a>
+            <a class="groupsBlockItem " href="groups/cyrillic/">Cyrillic</a>
+            <a class="groupsBlockItem " href="groups/cyrillic-extended-a/">Cyrillic Extended-A</a>
+            <a class="groupsBlockItem " href="groups/cyrillic-extended-b/">Cyrillic Extended-B</a>
+            <a class="groupsBlockItem " href="groups/cyrillic-supplement/">Cyrillic Supplement</a>
+            <a class="groupsBlockItem " href="groups/deseret/">Deseret</a>
+            <a class="groupsBlockItem " href="groups/devanagari/">Devanagari</a>
+            <a class="groupsBlockItem " href="groups/devanagari-extended/">Devanagari Extended</a>
+            <a class="groupsBlockItem " href="groups/dingbats/">Dingbats</a>
+            <a class="groupsBlockItem " href="groups/domino-tiles/">Domino Tiles</a>
+            <a class="groupsBlockItem " href="groups/egyptian-hieroglyphs/">Egyptian Hieroglyphs</a>
+            <a class="groupsBlockItem " href="groups/emoticons/">Emoticons</a>
+            <a class="groupsBlockItem " href="groups/enclosed-alphanumeric-supplement/">Enclosed Alphanumeric Supplement</a>
+            <a class="groupsBlockItem " href="groups/enclosed-alphanumerics/">Enclosed Alphanumerics</a>
+            <a class="groupsBlockItem " href="groups/enclosed-cjk-letters-and-months/">Enclosed CJK Letters and Months</a>
+            <a class="groupsBlockItem " href="groups/enclosed-ideographic-supplement/">Enclosed Ideographic Supplement</a>
+            <a class="groupsBlockItem " href="groups/ethiopic/">Ethiopic</a>
+            <a class="groupsBlockItem " href="groups/ethiopic-extended/">Ethiopic Extended</a>
+            <a class="groupsBlockItem " href="groups/ethiopic-extended-a/">Ethiopic Extended-A</a>
+            <a class="groupsBlockItem " href="groups/ethiopic-supplement/">Ethiopic Supplement</a>
+            <a class="groupsBlockItem " href="groups/general-punctuation/">General Punctuation</a>
+            <a class="groupsBlockItem " href="groups/geometric-shapes/">Geometric Shapes</a>
+            <a class="groupsBlockItem " href="groups/georgian/">Georgian</a>
+            <a class="groupsBlockItem " href="groups/georgian-supplement/">Georgian Supplement</a>
+            <a class="groupsBlockItem " href="groups/glagolitic/">Glagolitic</a>
+            <a class="groupsBlockItem " href="groups/gothic/">Gothic</a>
+            <a class="groupsBlockItem " href="groups/greek-and-coptic/">Greek and Coptic</a>
+            <a class="groupsBlockItem " href="groups/greek-extended/">Greek Extended</a>
+            <a class="groupsBlockItem " href="groups/gujarati/">Gujarati</a>
+            <a class="groupsBlockItem " href="groups/gurmukhi/">Gurmukhi</a>
+            <a class="groupsBlockItem " href="groups/halfwidth-and-fullwidth-forms/">Halfwidth and Fullwidth Forms</a>
+            <a class="groupsBlockItem " href="groups/hangul-compatibility-jamo/">Hangul Compatibility Jamo</a>
+            <a class="groupsBlockItem " href="groups/hangul-jamo/">Hangul Jamo</a>
+            <a class="groupsBlockItem " href="groups/hangul-jamo-extended-a/">Hangul Jamo Extended-A</a>
+            <a class="groupsBlockItem " href="groups/hangul-jamo-extended-b/">Hangul Jamo Extended-B</a>
+            <a class="groupsBlockItem " href="groups/hangul-syllables/">Hangul Syllables</a>
+            <a class="groupsBlockItem " href="groups/hanunoo/">Hanunoo</a>
+            <a class="groupsBlockItem " href="groups/hebrew/">Hebrew</a>
+            <a class="groupsBlockItem " href="groups/high-private-use-surrogates/">High Private Use Surrogates</a>
+            <a class="groupsBlockItem " href="groups/high-surrogates/">High Surrogates</a>
+            <a class="groupsBlockItem " href="groups/hiragana/">Hiragana</a>
+            <a class="groupsBlockItem " href="groups/ideographic-description-characters/">Ideographic Description Characters</a>
+            <a class="groupsBlockItem " href="groups/imperial-aramaic/">Imperial Aramaic</a>
+            <a class="groupsBlockItem " href="groups/inscriptional-pahlavi/">Inscriptional Pahlavi</a>
+            <a class="groupsBlockItem " href="groups/inscriptional-parthian/">Inscriptional Parthian</a>
+            <a class="groupsBlockItem " href="groups/ipa-extensions/">IPA Extensions</a>
+            <a class="groupsBlockItem " href="groups/javanese/">Javanese</a>
+            <a class="groupsBlockItem " href="groups/kaithi/">Kaithi</a>
+            <a class="groupsBlockItem " href="groups/kana-supplement/">Kana Supplement</a>
+            <a class="groupsBlockItem " href="groups/kanbun/">Kanbun</a>
+            <a class="groupsBlockItem " href="groups/kangxi-radicals/">Kangxi Radicals</a>
+            <a class="groupsBlockItem " href="groups/kannada/">Kannada</a>
+            <a class="groupsBlockItem " href="groups/katakana/">Katakana</a>
+            <a class="groupsBlockItem " href="groups/katakana-phonetic-extensions/">Katakana Phonetic Extensions</a>
+            <a class="groupsBlockItem " href="groups/kayah-li/">Kayah Li</a>
+            <a class="groupsBlockItem " href="groups/kharoshthi/">Kharoshthi</a>
+            <a class="groupsBlockItem " href="groups/khmer/">Khmer</a>
+            <a class="groupsBlockItem " href="groups/khmer-symbols/">Khmer Symbols</a>
+            <a class="groupsBlockItem " href="groups/lao/">Lao</a>
+            <a class="groupsBlockItem " href="groups/latin-1-supplement/">Latin-1 Supplement</a>
+            <a class="groupsBlockItem " href="groups/latin-extended-a/">Latin Extended-A</a>
+            <a class="groupsBlockItem " href="groups/latin-extended-additional/">Latin Extended Additional</a>
+            <a class="groupsBlockItem " href="groups/latin-extended-b/">Latin Extended-B</a>
+            <a class="groupsBlockItem " href="groups/latin-extended-c/">Latin Extended-C</a>
+            <a class="groupsBlockItem " href="groups/latin-extended-d/">Latin Extended-D</a>
+            <a class="groupsBlockItem " href="groups/lepcha/">Lepcha</a>
+            <a class="groupsBlockItem " href="groups/letterlike-symbols/">Letterlike Symbols</a>
+            <a class="groupsBlockItem " href="groups/limbu/">Limbu</a>
+            <a class="groupsBlockItem " href="groups/linear-b-ideograms/">Linear B Ideograms</a>
+            <a class="groupsBlockItem " href="groups/linear-b-syllabary/">Linear B Syllabary</a>
+            <a class="groupsBlockItem " href="groups/lisu/">Lisu</a>
+            <a class="groupsBlockItem " href="groups/low-surrogates/">Low Surrogates</a>
+            <a class="groupsBlockItem " href="groups/lycian/">Lycian</a>
+            <a class="groupsBlockItem " href="groups/lydian/">Lydian</a>
+            <a class="groupsBlockItem " href="groups/mahjong-tiles/">Mahjong Tiles</a>
+            <a class="groupsBlockItem " href="groups/malayalam/">Malayalam</a>
+            <a class="groupsBlockItem " href="groups/mandaic/">Mandaic</a>
+            <a class="groupsBlockItem " href="groups/mathematical-alphanumeric-symbols/">Mathematical Alphanumeric Symbols</a>
+            <a class="groupsBlockItem " href="groups/mathematical-operators/">Mathematical Operators</a>
+            <a class="groupsBlockItem " href="groups/meetei-mayek/">Meetei Mayek</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-mathematical-symbols-a/">Miscellaneous Mathematical Symbols-A</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-mathematical-symbols-b/">Miscellaneous Mathematical Symbols-B</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-symbols/">Miscellaneous Symbols</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-symbols-and-arrows/">Miscellaneous Symbols and Arrows</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-symbols-and-pictographs/">Miscellaneous Symbols And Pictographs</a>
+            <a class="groupsBlockItem " href="groups/miscellaneous-technical/">Miscellaneous Technical</a>
+            <a class="groupsBlockItem " href="groups/modifier-tone-letters/">Modifier Tone Letters</a>
+            <a class="groupsBlockItem " href="groups/mongolian/">Mongolian</a>
+            <a class="groupsBlockItem " href="groups/musical-symbols/">Musical Symbols</a>
+            <a class="groupsBlockItem " href="groups/myanmar/">Myanmar</a>
+            <a class="groupsBlockItem " href="groups/myanmar-extended-a/">Myanmar Extended-A</a>
+            <a class="groupsBlockItem " href="groups/new-tai-lue/">New Tai Lue</a>
+            <a class="groupsBlockItem " href="groups/nko/">NKo</a>
+            <a class="groupsBlockItem " href="groups/number-forms/">Number Forms</a>
+            <a class="groupsBlockItem " href="groups/ogham/">Ogham</a>
+            <a class="groupsBlockItem " href="groups/ol-chiki/">Ol Chiki</a>
+            <a class="groupsBlockItem " href="groups/old-italic/">Old Italic</a>
+            <a class="groupsBlockItem " href="groups/old-persian/">Old Persian</a>
+            <a class="groupsBlockItem " href="groups/old-south-arabian/">Old South Arabian</a>
+            <a class="groupsBlockItem " href="groups/old-turkic/">Old Turkic</a>
+            <a class="groupsBlockItem " href="groups/optical-character-recognition/">Optical Character Recognition</a>
+            <a class="groupsBlockItem " href="groups/oriya/">Oriya</a>
+            <a class="groupsBlockItem " href="groups/osmanya/">Osmanya</a>
+            <a class="groupsBlockItem " href="groups/phags-pa/">Phags-pa</a>
+            <a class="groupsBlockItem " href="groups/phaistos-disc/">Phaistos Disc</a>
+            <a class="groupsBlockItem " href="groups/phoenician/">Phoenician</a>
+            <a class="groupsBlockItem " href="groups/phonetic-extensions/">Phonetic Extensions</a>
+            <a class="groupsBlockItem " href="groups/phonetic-extensions-supplement/">Phonetic Extensions Supplement</a>
+            <a class="groupsBlockItem " href="groups/playing-cards/">Playing Cards</a>
+            <a class="groupsBlockItem " href="groups/private-use-area/">Private Use Area</a>
+            <a class="groupsBlockItem " href="groups/rejang/">Rejang</a>
+            <a class="groupsBlockItem " href="groups/rumi-numeral-symbols/">Rumi Numeral Symbols</a>
+            <a class="groupsBlockItem " href="groups/runic/">Runic</a>
+            <a class="groupsBlockItem " href="groups/samaritan/">Samaritan</a>
+            <a class="groupsBlockItem " href="groups/saurashtra/">Saurashtra</a>
+            <a class="groupsBlockItem " href="groups/shavian/">Shavian</a>
+            <a class="groupsBlockItem " href="groups/sinhala/">Sinhala</a>
+            <a class="groupsBlockItem " href="groups/small-form-variants/">Small Form Variants</a>
+            <a class="groupsBlockItem " href="groups/spacing-modifier-letters/">Spacing Modifier Letters</a>
+            <a class="groupsBlockItem " href="groups/specials/">Specials</a>
+            <a class="groupsBlockItem " href="groups/sundanese/">Sundanese</a>
+            <a class="groupsBlockItem " href="groups/superscripts-and-subscripts/">Superscripts and Subscripts</a>
+            <a class="groupsBlockItem " href="groups/supplemental-arrows-a/">Supplemental Arrows-A</a>
+            <a class="groupsBlockItem " href="groups/supplemental-arrows-b/">Supplemental Arrows-B</a>
+            <a class="groupsBlockItem " href="groups/supplemental-mathematical-operators/">Supplemental Mathematical Operators</a>
+            <a class="groupsBlockItem " href="groups/supplemental-punctuation/">Supplemental Punctuation</a>
+            <a class="groupsBlockItem " href="groups/supplementary-private-use-area-a/">Supplementary Private Use Area-A</a>
+            <a class="groupsBlockItem " href="groups/supplementary-private-use-area-b/">Supplementary Private Use Area-B</a>
+            <a class="groupsBlockItem " href="groups/syloti-nagri/">Syloti Nagri</a>
+            <a class="groupsBlockItem " href="groups/syriac/">Syriac</a>
+            <a class="groupsBlockItem " href="groups/tagalog/">Tagalog</a>
+            <a class="groupsBlockItem " href="groups/tagbanwa/">Tagbanwa</a>
+            <a class="groupsBlockItem " href="groups/tags/">Tags</a>
+            <a class="groupsBlockItem " href="groups/tai-le/">Tai Le</a>
+            <a class="groupsBlockItem " href="groups/tai-tham/">Tai Tham</a>
+            <a class="groupsBlockItem " href="groups/tai-viet/">Tai Viet</a>
+            <a class="groupsBlockItem " href="groups/tai-xuan-jing-symbols/">Tai Xuan Jing Symbols</a>
+            <a class="groupsBlockItem " href="groups/tamil/">Tamil</a>
+            <a class="groupsBlockItem " href="groups/telugu/">Telugu</a>
+            <a class="groupsBlockItem " href="groups/thaana/">Thaana</a>
+            <a class="groupsBlockItem " href="groups/thai/">Thai</a>
+            <a class="groupsBlockItem " href="groups/tibetan/">Tibetan</a>
+            <a class="groupsBlockItem " href="groups/tifinagh/">Tifinagh</a>
+            <a class="groupsBlockItem " href="groups/transport-and-map-symbols/">Transport And Map Symbols</a>
+            <a class="groupsBlockItem " href="groups/ugaritic/">Ugaritic</a>
+            <a class="groupsBlockItem " href="groups/unified-canadian-aboriginal-syllabics/">Unified Canadian Aboriginal Syllabics</a>
+            <a class="groupsBlockItem " href="groups/unified-canadian-aboriginal-syllabics-extended/">Unified Canadian Aboriginal Syllabics Extended</a>
+            <a class="groupsBlockItem " href="groups/vai/">Vai</a>
+            <a class="groupsBlockItem " href="groups/variation-selectors/">Variation Selectors</a>
+            <a class="groupsBlockItem " href="groups/variation-selectors-supplement/">Variation Selectors Supplement</a>
+            <a class="groupsBlockItem " href="groups/vedic-extensions/">Vedic Extensions</a>
+            <a class="groupsBlockItem " href="groups/vertical-forms/">Vertical Forms</a>
+            <a class="groupsBlockItem " href="groups/yi-radicals/">Yi Radicals</a>
+            <a class="groupsBlockItem " href="groups/yi-syllables/">Yi Syllables</a>
+            <a class="groupsBlockItem " href="groups/yijing-hexagram-symbols/">Yijing Hexagram Symbols</a>
+        </div>
+    <div style="text-align:center; margin:20px auto;">
+        <a href="groups/">Browse all the groups &raquo;</a>
+    </div>
+</div>        <div class="footer">
+    <div>
+        © 2018-2025 <a href="https://www.the3rdsequence.com/" rel="noopener" target="_blank" style="text-decoration:none">the3rdSequence</a>
+    </div>
+    <div class="footerNav">
+        <a href="contact/">Contact</a>
+        <a href="kaomoji/">Kaomoji</a>
+        <a href="legals/privacy-policy/" target="_BLANK">Privacy Policy</a>
+        <a href="legals/cookie-policy/" target="_BLANK">Cookie Policy</a>
+        <div onclick="showCookieBanner()">Manage Cookies</div>
+    </div>
+</div>    </footer>
+    <aside>
+    <style>
+            </style>
+    <script src="scripts/js/clickToCopy.js"></script>
+    <script>
+        var rightClickToCopy = document.getElementById("rightClickToCopy");
+        var rightClickToCopyStatus = document.getElementById("rightClickToCopyStatus");
+        if (rightClickToCopy) {
+
+            var rightClickToCopyEnabled = localStorage.getItem("rightClickToCopyEnabled") ? true : false;
+            updateToolbarButtonsUI();
+
+            rightClickToCopy.onclick = function () {
+                rightClickToCopyEnabled = !rightClickToCopyEnabled;
+                localStorage.setItem("rightClickToCopyEnabled", rightClickToCopyEnabled);
+                updateToolbarButtonsUI();
+            }
+
+            function updateToolbarButtonsUI() {
+                rightClickToCopyStatus.innerHTML = rightClickToCopyEnabled ? "ON" : "OFF";
+                rightClickToCopy.classList.toggle('enabled', rightClickToCopyEnabled);
+            }
+
+            window.oncontextmenu = function (e) {
+                var charItem;
+                if (e.target.classList.contains("charItem")) {
+                    charItem = e.target;
+                } else if (e.target.parentElement) {
+                    if (e.target.parentElement.classList.contains("charItem")) {
+                        charItem = e.target.parentElement;
+                    }
+                }
+
+                if (charItem) {
+                    console.log(charItem);
+                    if (rightClickToCopyEnabled) {
+                        e.preventDefault();
+                        copyTextToClipboard(charItem.querySelector(".charItemSymbol").innerText);
+                    }
+                }
+            }
+        }
+    </script>
+    <script>
+        var copyAllBtn = document.getElementById("copyAll");
+        if (copyAllBtn) {
+            copyAllBtn.addEventListener("click", copyAllCharsToClipboard);
+        }
+
+        function copyAllCharsToClipboard() {
+            var allString = "";
+            document.querySelectorAll(".charItem .charItemSymbol").forEach(char => {
+                allString += char.innerText.trim();
+            });
+            console.log(allString);
+            copyTextToClipboard(allString);
+        }
+    </script>
+
+    <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="the3rdSequence" data-description="Find it useful? Support the website!" data-message="Find it useful? Support the website!" data-color="#FF813F" data-position="right" data-x_margin="18" data-y_margin="118"></script>
+    
+    <script src="legals/cookie-consent/script.js?ga=G-FRFFHG6R9E&clarity=8n7d6zl3nr&adsense=ca-pub-1304521668449080&v=2025-12-25&testing=0"></script>
+</aside></body>
+</html>
